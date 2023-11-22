@@ -1,0 +1,11 @@
+---
+title: "Atlanta Presentation"
+subtitle: "Slide deck"
+format: revealjs
+---
+
+## Overview
+
+- This is a slide deck
+- It is written in Quarto
+- It is rendered using Reveal.js

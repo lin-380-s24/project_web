@@ -1,0 +1,36 @@
+project:
+  title: "Web project"
+  type: website
+  output-dir: _docs
+
+website:
+  page-navigation: true
+  reader-mode: true
+  repo-url: https://github.com/username/repo
+  repo-actions: [edit, issue]
+  site-url: "https://username.github.io/repo"
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - index.qmd
+      - section: "Process"
+        contents:
+          - process/1_acquire.qmd
+
+      - section: "Reports"
+        contents:
+          - reports/article.qmd
+          - reports/presentations.qmd
+    tools:
+      - icon: github
+        href: https:://github.com
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+execute:
+  freeze: auto

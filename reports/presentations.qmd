@@ -1,0 +1,14 @@
+---
+title: "Presentations"
+slide-format: revealjs
+---
+
+## Latest conference presentations
+
+2023
+
+<div>
+```{=html}
+<iframe src="atlanta/" width="100%" height="500px"> </iframe>
+```
+</div>
