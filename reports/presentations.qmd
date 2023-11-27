@@ -9,6 +9,6 @@ slide-format: revealjs
 
 <div>
 ```{=html}
-<iframe src="atlanta/" width="100%" height="500px"> </iframe>
+<iframe src="venue/" width="100%" height="500px"> </iframe>
 ```
 </div>

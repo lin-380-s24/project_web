@@ -1,36 +1,33 @@
 project:
-  title: "Web project"
+  title: "Web project" # Project title
   type: website
-  output-dir: _docs
+  output-dir: _docs # Website directory
 
 website:
-  page-navigation: true
-  reader-mode: true
-  repo-url: https://github.com/username/repo
-  repo-actions: [edit, issue]
-  site-url: "https://username.github.io/repo"
+  page-navigation: true # Enable page navigation
+  reader-mode: true # Enable reader mode
+  repo-url: https://github.com/username/repo # Repository URL
+  repo-actions: [edit, issue] # Repository actions
+  site-url: "https://username.github.io/repo" # Website URL
   sidebar:
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
+    style: "docked" # Sidebar style
+    search: true # Enable search
+    collapse-level: 1 # Initial sidebar collapse level
+    contents: # Sidebar contents
       - index.qmd
       - section: "Process"
-        contents:
-          - process/1_acquire.qmd
+        contents: process/*
 
       - section: "Reports"
-        contents:
-          - reports/article.qmd
-          - reports/presentations.qmd
+        contents: reports/*
     tools:
       - icon: github
         href: https:://github.com
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: cosmo # Bootstrap theme for the site
+    toc: true # Enable table of contents
 
 execute:
-  freeze: auto
+  freeze: auto # only render documents that have changed
