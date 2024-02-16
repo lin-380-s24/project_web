@@ -1,14 +1,18 @@
 ---
 title: "Presentations"
-slide-format: revealjs
+listing:
+  id: presentation-listing
+  contents: slides/*.qmd
+  type: default
+  sort: "date desc"
+  fields: [title, date, ]
+page-layout: full
+title-block-banner: false
 ---
 
-## Latest conference presentations
 
-2023
+## Latest presentations
 
-<div>
-```{=html}
-<iframe src="venue/" width="100%" height="500px"> </iframe>
-```
-</div>
+::: {#presentation-listing}
+:::
+

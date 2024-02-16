@@ -12,7 +12,7 @@ website:
   sidebar:
     style: "docked" # Sidebar style
     search: true # Enable search
-    collapse-level: 1 # Initial sidebar collapse level
+    collapse-level: 2 # Initial sidebar collapse level
     contents: # Sidebar contents
       - index.qmd
       - section: "Process"
