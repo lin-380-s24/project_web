@@ -1,7 +1,7 @@
 project:
   title: "Web project" # Project title
   type: website
-  output-dir: _docs # Website directory
+  output-dir: docs/ # Website directory
 
 website:
   page-navigation: true # Enable page navigation
