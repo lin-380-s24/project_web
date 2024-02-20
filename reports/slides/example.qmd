@@ -2,6 +2,7 @@
 title: "My Presentation"
 subtitle: "Slide deck"
 date: "2021-01-01"
+bibliography: ../../bibliography.bib
 ---
 
 ## Overview
@@ -10,4 +11,9 @@ date: "2021-01-01"
 - It is written in Quarto
 - It is rendered using Reveal.js
 
+::: {.aside}
+You can add reference entries in the `../../bibliography.bib` file and then cite them in your slides. For example, here is a citation to a book [@R-dplyr].
+:::
+
 ## References
+
