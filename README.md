@@ -6,21 +6,27 @@
 
 ---------
 
-**GitHub Action deployment**
+**About this template**
 
-To enable automatic deployment of the project website from the `gh-pages` branch, run the following command in the terminal:
+This template is designed to be used with the [Quarto](https://quarto.org) reproducible document system. It harnesses the functionality of Quarto websites to create a reproducible project template that can be hosted on GitHub Pages.
+
+**GitHub Pages configuration**
+
+There are two configuration setups for hosting with GitHub Pages:
+
+1. `docs/` directory:\
+Use the `main` branch and create a `docs/` directory to store the website files. Go to Pages in the repository settings and select the `main` branch and `docs/` directory. Then change the `_quarto.yml` file to output to the `docs/` directory (`output-dir: _docs/`).
+
+2. GitHub Action:\
+Use the `gh-pages` branch and enable the GitHub Action to automatically build and deploy the website. To enable this approach, run the following shell command in the terminal:
 
 ```bash
 set-publish-gh-pages
 ```
 
-Then, update your repository settings to enable GitHub Pages for the `gh-pages` branch and `/ (root)` folder.
+**Template configuration**
 
----------
-
-**About this template**
-
-This template is designed to be used with the [Quarto](https://quarto.org) reproducible document system. It harnesses the functionality of Quarto websites to create a reproducible project template. 
+This template is designed to be used with the [Quarto](https://quarto.org) reproducible document system. It harnesses the functionality of Quarto websites to create a reproducible project template.
 
 The main file used to configure the project is `_quarto.yml`. It includes the key-value pairs that define the project. Important keys include:
 
@@ -43,7 +49,7 @@ quarto render
 To build the project website and open it in a web browser, run:
 
 ```bash
-quarto render --serve
+quarto preview
 ```
 
 Alternatively, you can open the project in [RStudio](https://rstudio.com) and use the Render command in the Build pane to build the project website.
