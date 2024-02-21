@@ -1,8 +1,20 @@
 ## Project description...
 
 
-## Instructions ... 
+## Instructions ...
 
+
+---------
+
+**GitHub Action deployment**
+
+To enable automatic deployment of the project website from the `gh-pages` branch, run the following command in the terminal:
+
+```bash
+set-publish-gh-pages
+```
+
+Then, update your repository settings to enable GitHub Pages for the `gh-pages` branch and `/ (root)` folder.
 
 ---------
 
