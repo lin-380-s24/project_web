@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# Instructions ###############################################################
+#
+# ONLY RUN ONCE TO SET UP GITHUB PAGES
+#
+# Preparation ---------------------------------------------------------------
+# 1. Make sure all your changes are committed
+#
+# Script ---------------------------------------------------------------------
+# 2. Run this script to publish your website to GitHub Pages on the `gh-pages` branch.
+#
+# GitHub repo ---------------------------------------------------------------
+# 3. Set source branch to `gh-pages` and folder to `/ (root)` in the settings of your repository.
+#
+###############################################################################
+
+# RUN SCRIPT
+
+# Create a new branch named `gh-pages`
+git checkout --orphan gh-pages
+git reset --hard
+git commit --allow-empty -m "Initializing gh-pages branch"
+git push origin gh-pages
+
+# Run quarto
+quarto publish gh-pages --no-prompt
+
+# Create .github/workflows/publish.yml file
+mkdir -p .github/workflows
+cat > .github/workflows/publish.yml <<EOL
+
+on:
+  workflow_dispatch:
+  push:
+    branches: main
+
+name: Quarto Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+EOL
+
