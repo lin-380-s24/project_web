@@ -1,5 +1,5 @@
 project:
-  title: "Web project" # Project title
+  title: "Prospectus" # Project title
   type: website
   output-dir: _site/ # Website directory
 
