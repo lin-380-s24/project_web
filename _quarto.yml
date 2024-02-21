@@ -9,7 +9,6 @@ website:
   site-url: "https://username.github.io/repo" # Website URL
   repo-url: https://github.com/username/repo # Repository URL
   repo-actions: [source, issue] # Repository actions
-  repo-link-target: "_blank" # Open repository links in a new tab
   sidebar:
     style: "docked" # Sidebar style
     search: true # Enable search
