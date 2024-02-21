@@ -2,9 +2,9 @@
 title: "README"
 ---
 
-## Project title
+## Sentimental Words, Pronounces, and Genres
 
-> Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings. 
+> Sentiment analysis has emerged to be a popular area to in analyzing social media discourse, with the publicization of various platforms. It classified sentimental expressions into five basic categories: *super positive, positive, super negative, negative and neutral*, drawing general conclusions on individuals' sentiments and their sentimental level in diverse posts. The same method can be employed to analyze other genres of writings, exploring sentimental levels and tendency in dissimilar genres. This study aims to find correlation among the use of pronounces and sentimental words and genres. Through employing methods of text analysis and sentiment analysis and comparing and contrasting uses of sentimental words and pronounces in different genres and results of analysis from each genre, the study is able to predictition of the genre of the text, based on sentimental words and pronounces the text contained. 
 
 ## Reproduce
 

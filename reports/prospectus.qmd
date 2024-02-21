@@ -3,49 +3,64 @@ title: "Prospectus"
 date-modified: today
 date-format: medium
 author:
-  - name: "Your name"
-    email: youremail@school.edu
-    affiliation: "Your affiliation"
+  - name: "Elaine Lu"
+    email: lul21@wfu.edu
+    affiliation: "WFU-Lin-380"
 abstract: |
-  This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
+  Social media platforms, depending on their targeted users and fucntions, now have develop various genres for different types of posts, such as instagram posts, discussion posts on Quora, or short fictions fans posted to share and interact with each other in AO3. Some genres are similar to traditional writing genres, while some others do not. To maintain consistency in text analysis, online fictions, including fan fictions, will be employed to compare and contrast with traditional novels, fictions, and academic writing. This study aims to spot the differences in the expression/use of sentimental words and first/second/third-pronouns in various genres. Through making comparison and concluding on the analysis results, the correlation among genre, setimental levels of the text, uses of pronouns can be found. 
 keywords:
-  - prospectus
-  - sample
+  - Sentimental Analysis
+  - Text Analysis
+  - Genre
+  - Pronoun
 citation: true
 bibliography: ../bibliography.bib
 ---
 
 # Introduction
 
-This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
+This study is about sentimental levels and pronouns of texts in relation to genre. Genres with dissimilar explicit or implicit requirements can result in different word choices, uses of pronouns, depending on the specific requisites on objectivity of the genre. Formal writing genres, like essays, often expect authors to write in scientific manners, employing less sentimental words, more objective words, and third-person pronouns, whereas fictions or personal letters have contradicting expectations for their authors. In this way, through text analysis and sentiment analysis and comparing and contrasting sentimental levels and pronounces used in different genres and results of analysis from each genre, the study can hypothetically predict of the genre of the text, based on sentimental and pronounces the text contained. 
 
 ## Literature review
+
+
 
 This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
 
 # Methods
 
-This section describes the data preparation and analysis methods that will be used to address the research question or hypothesis. It should include a detailed description of the data acquisition, data organization, and data enrichment process, as well as the feature selection and engineering, analysis techniques, and evaluation process.
+Recalling that the aim of this study is to explore sentimental levels and pronouns of texts in relation to genre, units of observation here will be writings in various genres, and variables needed to explore will be: **sentimental words**, **sentimental level of the word** (Super positive/negative, positive/negative, or neutral), **number of sentimental words contained**, **pronouns** (first, second, or third), **number of pronouns words contained**, and **genre of the text** (fan fiction, novel, letters, email, academic writing, etc.). 
+First, data will be pulled from social media and other types of textual corpora database. Then, the pulled texts will first be processed and needed variables will be extracted from the collected texts. Thirdly, subsets of data will be analyzed respectively to examine whether or not its results fit the hypothesis. Lastly, all the data and their correlation will be visualized. 
 
-## Data preparation
+## Data preparation & Analysis 
 
-This section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.
+**Phase 1: Harvest social media data and compile a corpus**
 
-## Data analysis
+In this stage, automated tools can be used to query records of social media data, extract this data, and compile it into a corpus (***citation记得写***). Ideally, [API](https://ao3-api.readthedocs.io/en/latest/) of [AO3](https://archiveofourown.org/) can be used to extract data from it, and the collected data will incorporate into a larger database like [COCA](https://www.english-corpora.org/), which contains writings in other genres. The collected data will first be categorized based on their genre, such as fiction, novel, or letter, etc. 
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+**Phase 2: Categorize and subset variables**
+
+All the sentimental words will be extracted from the text and classified into the basic categories, using the method of sentimental analysis. The average level of sentiments in each genre will be calculated. Each level of sentiments will be assigned a distinct value (*E.g. Super positive/negative-1, positive/negative-0.5, neutral-0*). 
+
+Then, similar methods will be employed to find relation between the use of pronounce and genre. All the pronouns used in text will also be extracted from the text and classified them to be first, second, or third-pronoun. The percentage of each type of pronouns used in each text will be calculated, then the average percentage of each type of pronouns used in each genre can also be calculated. The preferences in the use of pronouns in each genre can then be indicated.
+
+
+**Phase 3: Analyze and visualize**
+
+First, using sum of all the values in each text to divide the total number of sentimental words will be the average strong level of sentimental words in the text, and using this value, the average strong level of sentimental words in each genre will then be found. Tables representing sentimental level of text in relation of genre can then be drawn.
+Similarly, tables that visualize relation between genre and preference in the use of pronouns, or pronoun preference and strong level of sentimental words in each genre will be displayed, which will either prove or falsify the hypothesis.  
 
 # Expected results
 
-This section presents the hypothesized findings based on the research question and analysis methods. It should include a clear statement of the expected results and their potential implications for the field of Linguistics and language science.
+Formal academic writing is more likely to use third-person pronouns and neutral level of sentimental words, compared to fan fiction/ If the the text employ more first/second pronouns with the use of strong level of sentimental words, it is likely to be fiction. 
 
 # Communication plan
 
-This section describes the plan for reporting, presenting, and sharing the results of the study. It should include a detailed description of the intended audience for the study, the format of the final report, and any plans for sharing the results with the broader community.
+The intended audience for the study can be anyone who is interested in linguistics, or anyone who wants to explore how genre may influence writers' word choices in the use of pronouns and sentimental words. The results of the study will be presented orally and visually in class, and the html version of the study will be open-source for the public, which audiences may find in github. 
 
 # Conclusion
 
-This section provides a summary of the research proposal and its potential impact on the field of Linguistics and language science. It should include a clear statement of the significance of the research question and the potential contributions of the study.
+This study employs the method of text analysis and sentiments analysis to find the the connection between genre and the use of pronouns and sentimental words in the text, which could be useful for in the field of linguistics, for the reason that it reflect which types of words writers may employ, or which types of words, uses of pronouns and sentimental words can engender objectivity or subjectivity for the audience of the text.
 
 # References
 
