@@ -1,5 +1,5 @@
 project:
-  title: "Web project" # Project title
+  title: "Language of the Media and Terrorism" # Project title
   type: website
   output-dir: _site/ # Website directory
 
