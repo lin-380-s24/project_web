@@ -16,9 +16,11 @@ set-publish-gh-pages
 
 Then, update your repository settings to enable GitHub Pages for the `gh-pages` branch and `/ (root)` folder.
 
+---------
+
 **About this template**
 
-This template is designed to be used with the [Quarto](https://quarto.org) reproducible document system. It harnesses the functionality of Quarto websites to create a reproducible project template.
+This template is designed to be used with the [Quarto](https://quarto.org) reproducible document system. It harnesses the functionality of Quarto websites to create a reproducible project template. 
 
 The main file used to configure the project is `_quarto.yml`. It includes the key-value pairs that define the project. Important keys include:
 
