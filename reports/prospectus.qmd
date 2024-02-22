@@ -12,7 +12,6 @@ keywords:
   - prospectus
   - sample
 citation: true
-format: html
 number-sections: true
 bibliography: ../bibliography.bib
 ---
