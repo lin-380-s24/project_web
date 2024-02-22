@@ -1,56 +1,65 @@
 ---
 title: "Prospectus"
 date-modified: today
-date-format: medium
+format: html
 author:
-  - name: "Your name"
-    email: youremail@school.edu
+  - name: "Yuxi"
+    email: zhany322@wfu.edu
     affiliation: "Your affiliation"
 abstract: |
-  This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
-keywords:
-  - prospectus
-  - sample
+  This research aims to address the intricate dynamics of transparency in legal and healthcare interpreting settings, contributing to the enhancement of communication efficacy within these critical domains. The study is prompted by the observed gap in understanding specific transparency requirements and challenges that influence the clarity and accuracy of communication. Drawing insights from key articles, including Jimenez (2004), Monteoliva-Garcia (2018), Kiseleva et al. (2022), and Kaufert and Putsch (1997), the research focuses on uncovering the nuanced elements within the patient-interpreter-physician relationship and legal interpreting practices. 
+  The primary research question guiding this investigation is: How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting? To address this question, the research objectives include delving into the intricacies of transparency, identifying challenges faced by interpreters, and proposing best practices to foster transparent communication. The methodology involves qualitative analysis of the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship, supplemented by a meta-analysis of legal interpreting research practices. Additionally, the study explores the intersection of legal requirements and technical limitations in AI-driven healthcare communication. 
+  The expected impact of this research is to offer valuable insights that contribute to the refinement of communication practices in legal and healthcare settings. By unveiling the complexities of transparency, the study aims to improve outcomes for all stakeholders involved, fostering a more effective and ethical communication environment.
+  As the research progresses, particular attention will be given to addressing challenges related to data availability, ensuring a robust and comprehensive exploration of the identified articles, and seeking expert consultation to refine the research focus and gather additional insights. The study holds the potential to significantly advance our understanding of transparency dynamics, ultimately benefiting the fields of legal and healthcare interpreting.
+
 citation: true
-bibliography: ../bibliography.bib
+bibliography: bibliography.bib
 ---
 
-# Introduction
+## Connect with the literature
 
-This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
+# Refined Interest Statement:
+My research interest centers on the transparency dynamics in legal and healthcare interpreting settings, emphasizing the need for clear and accurate communication. The exploration aims to contribute valuable insights to enhance communication practices within these critical domains.
 
-## Literature review
+# Identified Articles:
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+Jimenez, X. (2004). "The patient-interpreter-physician triangle: Issues of power, transparency, and self-regulation."
+Monteoliva-Garcia, E. (2018). "The last ten years of legal interpreting research (2008-2017): A review of research in the field of legal interpreting."
+Kiseleva, A., Kotzinos, D., & De Hert, P. (2022). "Transparency of AI in healthcare as a multilayered system of accountabilities: between legal requirements and technical limitations."
+Kaufert, J. M., & Putsch, R. W. (1997). "Communication through interpreters in healthcare: ethical dilemmas arising from differences in class, culture, language, and power."
+# Skimming and Analysis:
 
-# Methods
+Jimenez (2004):
 
-This section describes the data preparation and analysis methods that will be used to address the research question or hypothesis. It should include a detailed description of the data acquisition, data organization, and data enrichment process, as well as the feature selection and engineering, analysis techniques, and evaluation process.
+Aims: Investigate dynamics within the patient-interpreter-physician relationship.
+Main Findings: Emphasizes power, transparency, and self-regulation issues.
+Analysis Approach: Qualitative analysis of relationship dynamics.
 
-## Data preparation
+Monteoliva-Garcia (2018):
 
-This section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.
+Aims: Comprehensive review of legal interpreting research.
+Main Findings: Encompasses challenges faced by legal interpreters and evolving practices.
+Data/Datasets: Review article; specific datasets not mentioned.
+Analysis Approach: Meta-analysis of legal interpreting research.
 
-## Data analysis
+Kiseleva et al. (2022):
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+Aims: Explore transparency of AI in healthcare.
+Main Findings: Discusses the intersection between legal requirements and technical limitations.
+Analysis Approach: Examination of the multilayered system of accountabilities.
 
-# Expected results
+Kaufert and Putsch (1997):
 
-This section presents the hypothesized findings based on the research question and analysis methods. It should include a clear statement of the expected results and their potential implications for the field of Linguistics and language science.
+Aims: Investigate communication through interpreters in healthcare.
+Main Findings: Discusses ethical dilemmas arising from cultural and power differences.
+Data/Datasets: Draws from healthcare interpreting interactions.
+Analysis Approach: Qualitative analysis of healthcare interpreting dynamics.
 
-# Communication plan
+## Draft a research statement
 
-This section describes the plan for reporting, presenting, and sharing the results of the study. It should include a detailed description of the intended audience for the study, the format of the final report, and any plans for sharing the results with the broader community.
+The identified research problem lies in the need to delineate specific transparency requirements and challenges within legal and healthcare interpreting settings. While existing literature underscores the importance of transparency, a significant gap exists in understanding the precise elements contributing to effective communication. My research seeks to address this gap by investigating the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship and legal interpreting practices.
 
-# Conclusion
+The primary research question is: How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting? The objectives include uncovering the nuanced aspects of transparency, identifying challenges faced by interpreters, and proposing best practices for fostering transparent communication. The expected impact of this research is to contribute valuable insights to enhance communication in legal and healthcare settings, ultimately improving outcomes for all stakeholders involved.
+## Assessing your progress
 
-This section provides a summary of the research proposal and its potential impact on the field of Linguistics and language science. It should include a clear statement of the significance of the research question and the potential contributions of the study.
-
-# References
-
-This section includes a list of sources cited in the prospectus. It should be formatted according to the citation style used in the field of Linguistics and language science.
-
-# Appendix {.appendix}
-
-This section includes any additional information that is relevant to the prospectus, such as data sources, code, or other supplementary materials.
+## References
