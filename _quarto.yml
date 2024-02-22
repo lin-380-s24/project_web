@@ -6,8 +6,8 @@ project:
 website:
   page-navigation: true # Enable page navigation
   reader-mode: true # Enable reader mode
-  site-url: "https://github.com/Sicheng2000/project" # Website URL
-  repo-url: https://sicheng2000.github.io/project/ # Repository URL
+  site-url: "https://sicheng2000.github.io/project/" # Website URL
+  repo-url: https://github.com/Sicheng2000/project # Repository URL
   repo-actions: [source, issue] # Repository actions
   sidebar:
     style: "docked" # Sidebar style
