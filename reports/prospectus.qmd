@@ -18,6 +18,8 @@ bibliography: bibliography.bib
 
 ## Connect with the literature
 
+cite @{kiseleva2022transparency, @{kaufert1997communication, @{jimenez2004patient, @{monteoliva2018last
+
 # Refined Interest Statement:
 My research interest centers on the transparency dynamics in legal and healthcare interpreting settings, emphasizing the need for clear and accurate communication. The exploration aims to contribute valuable insights to enhance communication practices within these critical domains.
 
