@@ -5,63 +5,104 @@ format: html
 author:
   - name: "Yuxi"
     email: zhany322@wfu.edu
-    affiliation: "Your affiliation"
-abstract: |
-  This research aims to address the intricate dynamics of transparency in legal and healthcare interpreting settings, contributing to the enhancement of communication efficacy within these critical domains. The study is prompted by the observed gap in understanding specific transparency requirements and challenges that influence the clarity and accuracy of communication. Drawing insights from key articles, including Jimenez (2004), Monteoliva-Garcia (2018), Kiseleva et al. (2022), and Kaufert and Putsch (1997), the research focuses on uncovering the nuanced elements within the patient-interpreter-physician relationship and legal interpreting practices. 
-  The primary research question guiding this investigation is: How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting? To address this question, the research objectives include delving into the intricacies of transparency, identifying challenges faced by interpreters, and proposing best practices to foster transparent communication. The methodology involves qualitative analysis of the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship, supplemented by a meta-analysis of legal interpreting research practices. Additionally, the study explores the intersection of legal requirements and technical limitations in AI-driven healthcare communication. 
+    affiliation: "Wake Forest University"
+abstract: | # note: at this point you still need to do the research process before the abstract can take shape
+  This research aims to address the intricate dynamics of transparency in legal and healthcare interpreting settings, contributing to the enhancement of communication efficacy within these critical domains. The study is prompted by the observed gap in understanding specific transparency requirements and challenges that influence the clarity and accuracy of communication. Drawing insights from key articles, including Jimenez (2004), Monteoliva-Garcia (2018), Kiseleva et al. (2022), and Kaufert and Putsch (1997), the research focuses on uncovering the nuanced elements within the patient-interpreter-physician relationship and legal interpreting practices.
+  The primary research question guiding this investigation is: How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting? To address this question, the research objectives include delving into the intricacies of transparency, identifying challenges faced by interpreters, and proposing best practices to foster transparent communication. The methodology involves qualitative analysis of the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship, supplemented by a meta-analysis of legal interpreting research practices. Additionally, the study explores the intersection of legal requirements and technical limitations in AI-driven healthcare communication.
   The expected impact of this research is to offer valuable insights that contribute to the refinement of communication practices in legal and healthcare settings. By unveiling the complexities of transparency, the study aims to improve outcomes for all stakeholders involved, fostering a more effective and ethical communication environment.
   As the research progresses, particular attention will be given to addressing challenges related to data availability, ensuring a robust and comprehensive exploration of the identified articles, and seeking expert consultation to refine the research focus and gather additional insights. The study holds the potential to significantly advance our understanding of transparency dynamics, ultimately benefiting the fields of legal and healthcare interpreting.
 
 citation: true
-bibliography: bibliography.bib
+bibliography: ../bibliography.bib # the path needed to be updated
 ---
+
+<!-- Summary
+
+In sum, your prospectus is a good start. You have identified a research interest and a set of articles that are relevant to your interest. You have also drafted a research statement that outlines the problem you are interested in and the research questions you will address. You have also identified some challenges you will need to address as you move forward.
+
+However, you need to make sure that your research involves text analysis. You have identified some articles that are relevant to your interest, but you need to find articles that approach their research through the lens of text analysis. This will help you develop your research statement and ensure that your project involves text analysis.
+
+-->
+
 
 ## Connect with the literature
 
-cite @{kiseleva2022transparency, @{kaufert1997communication, @{jimenez2004patient, @{monteoliva2018last
+<!--
+This is where you will briefly summarize the important parts of the articles that your are gathering and reviewing. Then discuss how these articles contribute to your identification of a problem statement (gap)
 
-# Refined Interest Statement:
+Also key, make sure that your project involves text analysis. For example, the study could apply text analysis to transcripts of patient-interpreter-physician conversations to gain additional insights into power dynamics and transparency challenges.
+
+Or something else, but it needs to involve text analysis!
+-->
+
+### Refined Interest Statement
+
 My research interest centers on the transparency dynamics in legal and healthcare interpreting settings, emphasizing the need for clear and accurate communication. The exploration aims to contribute valuable insights to enhance communication practices within these critical domains.
 
-# Identified Articles:
+<!-- The articles appear as part of the references below, now that I've amended the code to make in-line citations -->
 
-Jimenez, X. (2004). "The patient-interpreter-physician triangle: Issues of power, transparency, and self-regulation."
-Monteoliva-Garcia, E. (2018). "The last ten years of legal interpreting research (2008-2017): A review of research in the field of legal interpreting."
-Kiseleva, A., Kotzinos, D., & De Hert, P. (2022). "Transparency of AI in healthcare as a multilayered system of accountabilities: between legal requirements and technical limitations."
-Kaufert, J. M., & Putsch, R. W. (1997). "Communication through interpreters in healthcare: ethical dilemmas arising from differences in class, culture, language, and power."
-# Skimming and Analysis:
+### Skimming and Analysis
 
-Jimenez (2004):
+<!-- These articles are surely helpful for your interest area, but from what I can see they do not approach their research through the lens of text analyis --that's where we are going to make sure to consider other articles that take a text analysis approach to help you develop your research statement -->
 
-Aims: Investigate dynamics within the patient-interpreter-physician relationship.
-Main Findings: Emphasizes power, transparency, and self-regulation issues.
-Analysis Approach: Qualitative analysis of relationship dynamics.
+**@jimenez2004patient**
 
-Monteoliva-Garcia (2018):
+<!-- You might consider changing the format of your points into a table for better, clearer presentation. -->
 
-Aims: Comprehensive review of legal interpreting research.
-Main Findings: Encompasses challenges faced by legal interpreters and evolving practices.
-Data/Datasets: Review article; specific datasets not mentioned.
-Analysis Approach: Meta-analysis of legal interpreting research.
+| | |
+|---|---|
+| Aims | Investigate dynamics within the patient-interpreter-physician relationship. |
+| Main Findings | Emphasizes power, transparency, and self-regulation issues. |
+| Analysis Approach | Qualitative analysis of relationship dynamics. |
 
-Kiseleva et al. (2022):
+: Summary of Jimenez (2004) {tbl-colwidths="[25, 75]"}
 
-Aims: Explore transparency of AI in healthcare.
-Main Findings: Discusses the intersection between legal requirements and technical limitations.
-Analysis Approach: Examination of the multilayered system of accountabilities.
+**@monteoliva2018last**
 
-Kaufert and Putsch (1997):
+| | |
+|---|---|
+| Aims | Comprehensive review of legal interpreting research. |
+| Main Findings | Encompasses challenges faced by legal interpreters and evolving practices. |
+| Analysis Approach | Meta-analysis of legal interpreting research. |
 
-Aims: Investigate communication through interpreters in healthcare.
-Main Findings: Discusses ethical dilemmas arising from cultural and power differences.
-Data/Datasets: Draws from healthcare interpreting interactions.
-Analysis Approach: Qualitative analysis of healthcare interpreting dynamics.
+: Summary of Monteoliva-Garcia (2018) {tbl-colwidths="[25, 75]"}
+
+**@kiseleva2022transparency**
+
+| | |
+|---|---|
+| Aims | Explore transparency of AI in healthcare. |
+| Main Findings | Discusses the intersection between legal requirements and technical limitations. |
+| Analysis Approach | Examination of the multilayered system of accountabilities. |
+
+: Summary of Kiseleva et al. (2022) {tbl-colwidths="[25, 75]"}
+
+**@kaufert1997communication**
+
+| | |
+|---|---|
+| Aims | Investigate communication through interpreters in healthcare. |
+| Main Findings | Discusses ethical dilemmas arising from cultural and power differences. |
+| Analysis Approach | Qualitative analysis of healthcare interpreting dynamics. |
+
+: Summary of Kaufert and Putsch (1997) {tbl-colwidths="[25, 75]"}
 
 ## Draft a research statement
 
-The identified research problem lies in the need to delineate specific transparency requirements and challenges within legal and healthcare interpreting settings. While existing literature underscores the importance of transparency, a significant gap exists in understanding the precise elements contributing to effective communication. My research seeks to address this gap by investigating the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship and legal interpreting practices.
+<!-- Again, text analysis needs to find it's way into your research. -->
 
-The primary research question is: How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting? The objectives include uncovering the nuanced aspects of transparency, identifying challenges faced by interpreters, and proposing best practices for fostering transparent communication. The expected impact of this research is to contribute valuable insights to enhance communication in legal and healthcare settings, ultimately improving outcomes for all stakeholders involved.
+The identified research problem lies in the need to delineate specific transparency requirements and challenges within legal and healthcare interpreting settings. While existing literature underscores the importance of transparency, a significant gap exists in understanding the precise elements contributing to effective communication.
+
+My research seeks to address this gap by investigating the power dynamics, transparency nuances, and self-regulation within the patient-interpreter-physician relationship and legal interpreting practices.
+
+The primary research question is:
+
+- How do power dynamics and transparency challenges impact effective communication in legal and healthcare interpreting?
+
+The objectives include uncovering the nuanced aspects of transparency, identifying challenges faced by interpreters, and proposing best practices for fostering transparent communication. The expected impact of this research is to contribute valuable insights to enhance communication in legal and healthcare settings, ultimately improving outcomes for all stakeholders involved.
+
 ## Assessing your progress
+
+<!-- I can't stress enough. This section is so important to your learning and your ability to demonstrate your progress in the course. Speaking honestly about how things are going is also a great way to help you identify what needs to be done and brainstorm some ways you might do that. -->
 
 ## References
