@@ -7,7 +7,7 @@ website:
   page-navigation: true # Enable page navigation
   reader-mode: true # Enable reader mode
   site-url: "https://linwang1234.github.io/project/" # Website URL
-  repo-url: "https://github.com/LINWANG1234/project"repository URL
+  repo-url: "https://github.com/LINWANG1234/project" # repository URL
   repo-actions: [source, issue] # Repository actions
   sidebar:
     style: "docked" # Sidebar style
