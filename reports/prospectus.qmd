@@ -2,7 +2,7 @@
 title: "Prospectus"
 date-modified: today
 date-format: medium
-author:
+author: # Good job adding your details!
   - name: "Jerid Francom"
     email: francojc@wfu.edu
     affiliation: "Wake Forest University"
@@ -16,6 +16,8 @@ bibliography: ../bibliography.bib
 ---
 
 # Introduction
+
+<!-- You might start by adding some of the initial information that you created for your interest statement to get started here. -->
 
 This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
 
