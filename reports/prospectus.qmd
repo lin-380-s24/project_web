@@ -3,8 +3,8 @@ title: "Prospectus"
 date-modified: today
 date-format: medium
 author:
-  - name: "Your name"
-    email: youremail@school.edu
+  - name: Lily Liu
+    email: Liul21@wfu.edu
     affiliation: "Your affiliation"
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
