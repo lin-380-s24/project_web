@@ -3,9 +3,9 @@ title: "Prospectus"
 date-modified: today
 date-format: medium
 author:
-  - name: "Your name"
-    email: youremail@school.edu
-    affiliation: "Your affiliation"
+  - name: "Jerid Francom"
+    email: francojc@wfu.edu
+    affiliation: "Wake Forest University"
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
