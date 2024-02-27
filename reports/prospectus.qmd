@@ -2,10 +2,16 @@
 title: "Prospectus"
 date-modified: today
 date-format: medium
+format:
+  html:
+    number-section: true
+    toc: true
+    toc-depth: 3
 author:
-  - name: "Your name"
-    email: youremail@school.edu
-    affiliation: "Your affiliation"
+  - name: "Lin Wang"
+    email: wangl23@wfu.edu
+    affiliation: "WFU"
+  
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
@@ -15,11 +21,40 @@ citation: true
 bibliography: ../bibliography.bib
 ---
 
+# Research Statement
+## Research Statement Draft
+
+In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by @lee2015emotion, @lee2017review, @li2012mandarin, @jose2020survey and @parafita2019code, our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.
+
+Adopting a multidisciplinary perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.
+
+Furthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.
+
+## Self Assessment
+
+### What did you learn?
+
+- Through this process, I learned the importance of critically reviewing existing literature to identify gaps and areas for further investigation. It highlighted the significance of formulating clear research questions and objectives to guide the study effectively. Additionally, I gained a deeper understanding of the complexities involved in code-switching research and the interdisciplinary nature of addressing such phenomena.
+
+### What did you find most/ least challenging?
+
+- The most challenging aspect was synthesizing information from multiple sources and integrating them into a coherent research statement. Balancing the need for specificity with the broader context of the research area required careful consideration. Meanwhile, formulating the research question and objectives was more straightforward once the gap in the literature was identified.
+
+### What resources did you consult?
+
+- I consulted academic databases such as Google Scholar, PubMed, and JSTOR to access peer-reviewed articles related to code-switching research. Additionally, I referred to conference proceedings and relevant books to gather diverse perspectives on the topic.
+
+### What questions or concerns do you have at this point?
+
+- One concern is ensuring the feasibility and practicality of implementing the proposed research objectives. Addressing potential methodological challenges and resource constraints will be crucial in moving forward with the study. Additionally, considering the evolving nature of language use and technology, I wonder about the adaptability of the proposed framework over time.
+
+### What do you need to address in order to move forward?
+
+- To move forward, I need to refine the research statement further based on feedback and suggestions from peers or mentors. Also, conducting a more comprehensive literature review to ensure all relevant studies are considered would strengthen the foundation of the research. Furthermore, developing a detailed research plan outlining specific methodologies, data collection strategies, and analysis techniques will be essential for the next steps in the research process.
+
 # Introduction
 
-This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
-
-## Literature review
+# Literature review
 
 This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
 
@@ -48,8 +83,6 @@ This section describes the plan for reporting, presenting, and sharing the resul
 This section provides a summary of the research proposal and its potential impact on the field of Linguistics and language science. It should include a clear statement of the significance of the research question and the potential contributions of the study.
 
 # References
-
-This section includes a list of sources cited in the prospectus. It should be formatted according to the citation style used in the field of Linguistics and language science.
 
 # Appendix {.appendix}
 
