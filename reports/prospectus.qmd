@@ -22,6 +22,7 @@ bibliography: ../bibliography.bib
 ---
 
 # Research Statement
+
 ## Research Statement Draft
 
 In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by @lee2015emotion, @lee2017review, @li2012mandarin, @jose2020survey and @parafita2019code, our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.
