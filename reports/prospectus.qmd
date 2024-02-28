@@ -3,9 +3,9 @@ title: "Prospectus"
 date-modified: today
 date-format: medium
 author:
-  - name: "Your name"
-    email: youremail@school.edu
-    affiliation: "Your affiliation"
+  - name: "Breanna Laws"
+    email: lawsbn21@wfu.edu
+    affiliation: "Wake Forest University"
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
@@ -17,11 +17,24 @@ bibliography: ../bibliography.bib
 
 # Introduction
 
-This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
+This research aims to analyze the language used by United States newspapers in reference organizations identified as "terrorist groups" by the United States government. The following research questions are address:
+
+1. What variations can be seen in the language used by American media outlets in reference to international terrorist groups?
+2. Where are there discrepancies between how governmental bodies identify groups and how the media identifies terrorist groups?
+3. What might these discrepancies mean?
+4. Does less inflammatory language or less acknowledgement of a group's "terrorist" status affect reader opinions?
 
 ## Literature review
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+This section will contain my analysis of various sources that inform my thinking. I will come back to it to fully flesh it out at a later date.
+
+I will practice inserting the citations here: @Rafeeq2023, @Amer2017, @Alnwihe2023
+
+These sources do a good job at identifying media language surrounding large conflicts. One of the studies contains a comparative analysis of US and UK press coverage of the Gaza War of 2008-2009 @Amer2017-df. Another article speaks to the concept of specialized rhetoric in othering various groups and how the language that the speakers use further this effort @Alnwihe2023.
+
+Many articles talk about the general bias of media and how this manifests in individual outlets' language. However, I want to narrow this research down specifically to the language of the media surrounding various groups that have been identified as "terrorist groups" by governmental bodies. For example, Associated Press Style guidelines instruct journalists to refer to Hamas as a militant group, rather than a terrorist group, which is how they are identified by the US State Department as a terrorist group. 
+
+My research is not to determine what is right or wrong but, rather, to see the language choices various outlets make when confronted with the choice of whether to use the risky word "terrorist" in their publications. Furthermore, I want to examine how these word choices may or may not affect the attitudes of readers toward various groups and toward the notion of US interference with these groups.
 
 # Methods
 
