@@ -17,7 +17,7 @@ bibliography: ../bibliography.bib
 
 # Introduction
 
-This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.
+
 
 ## Literature review
 
