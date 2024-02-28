@@ -2,10 +2,16 @@
 title: "Prospectus"
 date-modified: today
 date-format: medium
+format:
+  html:
+    number-section: true
+    toc: true
+    toc-depth: 3
 author:
-  - name: Lily Liu
+  - name: "Lily Liu"
     email: Liul21@wfu.edu
-    affiliation: "Your affiliation"
+    affiliation: "Wake Forest University"
+
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
@@ -14,6 +20,14 @@ keywords:
 citation: true
 bibliography: ../bibliography.bib
 ---
+
+# Research Statement
+
+## Research Statment Draft
+
+This study aims to explore the intricate dynamics between cultural adaptation, localization strategies, and their broader impacts on the tourism sector's resilience and sustainability against the backdrop of globalization. Drawing upon the psychological and operational adjustments of tourism personnel in the face of global crises highlighted by @simanjuntak2020culture, this research will further examine the strategic incorporation of traditional cultural elements in enhancing tourism appeal, as evidenced by @simanjuntak2020culture. Additionally, it will delve into the linguistic and cultural challenges and opportunities in the digital localization of tourism websites discussed by @cappelli2007translation, complemented by an investigation into the role of local tour guides in mediating global and local cultural exchanges, as analyzed by @salazar2005tourism. Lastly, the study will consider the digital localization practices of national tourism organizations and their impact on cultural tourism, following insights from @mele2017localization. Collectively, these references will underpin a comprehensive model aimed at fostering sustainable tourism development that prioritizes cultural integrity, inclusiveness, and adaptability to changing global trends.
+
+
 
 # Introduction
 
