@@ -11,7 +11,7 @@ author:
   - name: "Lin Wang"
     email: wangl23@wfu.edu
     affiliation: "WFU"
-  
+
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
@@ -25,9 +25,11 @@ bibliography: ../bibliography.bib
 
 ## Research Statement Draft
 
-In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by @lee2015emotion, @lee2017review, @li2012mandarin, @jose2020survey and @parafita2019code, our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.
+In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by [@lee2015emotion; @lee2017review; @li2012mandarin; @jose2020survey; @parafita2019code], our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.
 
-Adopting a multidisciplinary perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.
+<!-- When grouping multiple inline citations we separate them by `;` the semi-colon. As seen above. -->
+
+Adopting a multidisciplinaryz perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.
 
 Furthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.
 
