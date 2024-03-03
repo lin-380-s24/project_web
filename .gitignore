@@ -24,3 +24,6 @@
 /.quarto/
 /_site/
 .Rproj.user
+
+# Setup files
+set-publish-gh-pages
