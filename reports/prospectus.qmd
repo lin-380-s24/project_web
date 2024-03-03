@@ -15,45 +15,96 @@ citation: true
 number-sections: true
 bibliography: ../bibliography.bib
 ---
+
 # Research Statement
 
-## **Intro:** 
+<!--
+
+Formatting:
+
+1. I would suggest not using bold in your headings. They are already bolded by Markdown.
+2. Spacing between headings and text is good, it will help with source code (qmd) readability. And it makes sure that certain errors don't occur.
+-->
+
+## Intro
+
 The field of community interpreting, which involves facilitating communication in everyday settings such as lawyers' offices, doctor's surgeries, and school orientations [@hale2007community], has experienced significant growth since World War II due to increased migration [@pochhacker1999getting]. However, in China, community interpreting is still in its early stages [@Liu2014], primarily concentrated in areas such as law, medical care, and administration [@Luo2018]. Community interpreting extends beyond language translation to encompass social work as well [@gehrke1990community], adding complexity to the role of community interpreters [@pollabauer2013community]. Although studies on the roles of community interpreters in China have predominantly focused on the business domain [@Jiang2021], there remains limited research on other domains—a topic that piques my interest.
 
-## **Research problem:** 
-In China, there is a scarcity of studies specifically examining the role of community interpreters through corpus analysis (text analysis). Those studies that do focus on community interpreters' roles through such methods often emphasize the multifaceted nature of their responsibilities [@Chen2017; @Wen2021] or highlight the challenges they encounter [@Jiang2021; @Cao2018] rather than offering prescriptive guidance on their ideal roles.
+## Research problem
 
-## **Research questions:** 
+In China, there is a scarcity of studies specifically examining the role of community interpreters through corpus analysis (text analysis). Those studies that do, focus on community interpreters' roles. These studies tend to emphasize the multifaceted nature of their responsibilities [@Chen2017; @Wen2021] or highlight the challenges they encounter [@Jiang2021; @Cao2018] rather than offering prescriptive guidance on their ideal roles.
+
+<!--
+
+I see where you are going here. It sounds like a promising area of research. However, at this stage, you've only identified the lack of study in this area --not an approach to study this area.
+
+I would suggest you delve more into the studies that have approached community interpreting in China, or elsewhere, through text/ corpus analysis methods. What were their findings? What were their limitations? What were their methodologies? These are the types of questions that will lead you to a more specific research question.
+
+-->
+
+
+## Research questions
 
 (@) Can corpus analysis (text analysis) be utilized to standardize the role of community interpreters?
 (@) What role is considered most acceptable for community interpreters?
 (@) What role do community interpreters primarily play?
 
-## **Research objectives:** 
+<!--
+
+As I suggested in the comment above, more concrete corpus-based text analysis studies will help you to refine your research questions such that they are more specific and answerable.
+
+This stage is difficult, and I don't expect you (or anyone) to have a fully formed research question at this stage. But with this attempt, you can see where you need to go next.
+
+I look forward to seeing how you refine your research questions in the next draft.
+
+-->
+
+
+## Research objectives
+
 Exploring the standardization of the role of community interpreters
 
-## **Expected impact:** 
+<!--
+
+OK. So 'standardization' is something more concrete. But what do you mean by 'standardization'? How can you measure it? What are the criteria for standardization? Are there suggested differences in populations, settings, or languages in which community interpreters work that have been suggested to require different standards?
+
+These are only some of the questions that occur to me when I read your research objectives. You'll know best
+
+-->
+
+## Expected impact
+
 (@) To broaden research methodologies for analyzing the role of community interpreters, as the majority of studies focus on interpreting transcripts, particularly interpreting strategies [@LiGao2021].
 (@) Establishing a foundation for standardizing the role of community interpreters.
 
+<!--
+
+It is good to have a clear idea of the impact of your research. This will help guide your research to ensure that it is relevant and useful.
+
+-->
+
 # Assessment
 
-## **What did you learn?**
+## What did you learn?
 
-*    The problem statement is aimed at uncovering the research gap.
-*    The research aim is aligned with the purpose of the study, whether it is to explore, predict, or verify.
-*    The research problem primarily dictates the focus of inquiry and influences the selection of data.
+*  The problem statement is aimed at uncovering the research gap.
+*  The research aim is aligned with the purpose of the study, whether it is to explore, predict, or verify.
+*  The research problem primarily dictates the focus of inquiry and influences the selection of data.
 
-## **What did you find most/ least challenging?**
+## What did you find most/ least challenging?
+
 The most challenging aspect for me is identifying research gaps, particularly as I need to review literature from both China and English-speaking countries. Often, I find it difficult to extract detailed findings solely from the abstracts, which requires me to read the full text, a process that can be time-consuming.
 
-## **What resources did you consult?**
+## What resources did you consult?
+
 I reviewed the books and PowerPoint presentations used by Professor Furmanek during the interpreting studies course. Additionally, I explored Google Scholar and  [CNKI](https://www.cnki.net/index/) to conduct a literature review and gather insights on potential research topics.
 
-## **What questions or concerns do you have at this point?**
+## What questions or concerns do you have at this point?
+
 I believe it would be challenging to acquire the corpus. From my research, I've observed that previous studies on the role of community interpreters often created their own corpus. For example, @bao2016using selected six videos with various settings as the corpus, while @Jiang2021 built the corpus based on her interpreting experiences with government organizations. It's also worth noting that in settings like courtrooms, privacy concerns for both defendants and plaintiffs may prevent the sharing of recordings with the public [@Cao2018].
 
-## **What do you need to address in order to move forward?**
+## What do you need to address in order to move forward?
+
 I need to specify the setting for community interpreting, which could encompass legal, healthcare, education, religious, and various other settings. In addition, I need to select a perspective to guide me, whether it's the interpreters' verbal expression, gestures, or voice modulation, which can indicate their role.
 
 # Introduction
