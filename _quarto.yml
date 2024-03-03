@@ -1,5 +1,5 @@
 project:
-  title: "My Prospectus" # Project title
+  title: "My Prospectus" # Update the title of your project
   type: website
   output-dir: _site/ # Website directory
 
@@ -22,7 +22,7 @@ website:
         contents: reports/*
     tools:
       - icon: github
-        href: https:://github.com
+        href: https://github.com/Sicheng2000/project
 
 format:
   html:
