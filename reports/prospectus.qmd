@@ -21,17 +21,44 @@ citation: true
 bibliography: ../bibliography.bib
 ---
 
+<!--
+
+This document is a template for a research prospectus, so it is just fine that you use this space as you see fit. Just remember, that the final document should take the form proposed in the original template.
+
+-->
+
 # Research Statement
 
 ## Research Statement Draft
 
 In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by [@lee2015emotion; @lee2017review; @li2012mandarin; @jose2020survey; @parafita2019code], our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.
 
-<!-- When grouping multiple inline citations we separate them by `;` the semi-colon. As seen above. -->
+<!--
+When grouping multiple inline citations we separate them by `;` the semi-colon. As seen above.
+
+Note that you will want to discuss each of your references in more detail in the literature review section, and this will likely mean you will not group them in the same way as you have done here.
+
+-->
 
 Adopting a multidisciplinaryz perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.
 
 Furthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.
+
+# Introduction
+
+# Literature review
+
+<!--
+
+This is the section where you should provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study.
+
+In your "Research Statement Draft" you have mentioned some of the literature that you have been consulting, but you should provide a more detailed review of these (and other) sources. You will want to provide a summary of each articles' main findings, relevant methods, and how they relate to your research question. As it stands, I have a hard time understanding how the topic you have chosen will integrate text analysis methods that we are learning in this class.
+
+Address these points with the literature you have cited and continue to gather other sources that will help you to build a comprehensive review of the literature and lead to a clear statement of the research question or hypothesis that the study aims to address.
+
+Remember, this work is a work in progress and you will likely revise and refine it as you continue to work on it.
+
+-->
 
 ## Self Assessment
 
@@ -39,21 +66,52 @@ Furthermore, our proposed framework holds promise in guiding language teaching p
 
 - Through this process, I learned the importance of critically reviewing existing literature to identify gaps and areas for further investigation. It highlighted the significance of formulating clear research questions and objectives to guide the study effectively. Additionally, I gained a deeper understanding of the complexities involved in code-switching research and the interdisciplinary nature of addressing such phenomena.
 
+<!--
+
+Great. This is a really interesting topic, one that shows much promise for generating insights into the dynamics of language use and communication.
+
+Note that you will now start to consider what your data sources will be and how you will analyze them. Many great project ideas have been derailed by the lack of available data or the inability to access it. So make sure to keep this in mind as you consider the literature you have reviewed and how you will move forward with your research.
+
+-->
+
 ### What did you find most/ least challenging?
 
 - The most challenging aspect was synthesizing information from multiple sources and integrating them into a coherent research statement. Balancing the need for specificity with the broader context of the research area required careful consideration. Meanwhile, formulating the research question and objectives was more straightforward once the gap in the literature was identified.
+
+<!--
+
+Yes, at this point pinpointing a clear research question is difficult. But the attempt (as you've done here) will help highlight what you still need to know and what you need to do to move forward.
+
+-->
 
 ### What resources did you consult?
 
 - I consulted academic databases such as Google Scholar, PubMed, and JSTOR to access peer-reviewed articles related to code-switching research. Additionally, I referred to conference proceedings and relevant books to gather diverse perspectives on the topic.
 
+<!--
+
+Great. You will want to continue to consult these resources as you move forward with your research.
+
+-->
+
 ### What questions or concerns do you have at this point?
 
 - One concern is ensuring the feasibility and practicality of implementing the proposed research objectives. Addressing potential methodological challenges and resource constraints will be crucial in moving forward with the study. Additionally, considering the evolving nature of language use and technology, I wonder about the adaptability of the proposed framework over time.
 
+<!--
+
+These are very relevant concerns. Since you are not required to implement the research, you won't have to consider the time and resource constraints that would be necessary to carry out the research. However, you will want to consider how you will address these concerns in your research plan --to your best ability.
+
+-->
+
 ### What do you need to address in order to move forward?
 
 - To move forward, I need to refine the research statement further based on feedback and suggestions from peers or mentors. Also, conducting a more comprehensive literature review to ensure all relevant studies are considered would strengthen the foundation of the research. Furthermore, developing a detailed research plan outlining specific methodologies, data collection strategies, and analysis techniques will be essential for the next steps in the research process.
+
+<!--
+
+Great plan. I really think that working with peers (in addition to me) is a good way to help delegate some of the work and to get feedback on your ideas.
+-->
 
 # Introduction
 
