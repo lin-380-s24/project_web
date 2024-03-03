@@ -7,7 +7,7 @@ author:
     email: lul21@wfu.edu
     affiliation: "WFU-Lin-380"
 abstract: |
-  Social media platforms, depending on their targeted users and fucntions, now have develop various genres for different types of posts, such as instagram posts, discussion posts on Quora, or short fictions fans posted to share and interact with each other in AO3. Some genres are similar to traditional writing genres, while some others do not. To maintain consistency in text analysis, online fictions, including fan fictions, will be employed to compare and contrast with traditional novels, fictions, and academic writing. This study aims to spot the differences in the expression/use of sentimental words and first/second/third-pronouns in various genres. Through making comparison and concluding on the analysis results, the correlation among genre, setimental levels of the text, uses of pronouns can be found. 
+  Social media platforms, depending on their targeted users and functions, now have develop various genres for different types of posts, such as instagram posts, discussion posts on Quora, or short fan fiction posted to share and interact with each other in AO3. Some genres are similar to traditional writing genres, while some others do not. To maintain consistency in text analysis, online fictions, including fan fiction, will be employed to compare and contrast with traditional novels, fictions, and academic writing. This study aims to spot the differences in the expression/use of sentimental words and first/second/third-pronouns in various genres. Through making comparison and concluding on the analysis results, the correlation among genre, setimental levels of the text, uses of pronouns can be found.
 keywords:
   - Sentimental Analysis
   - Text Analysis
@@ -19,48 +19,108 @@ bibliography: ../bibliography.bib
 
 # Introduction
 
-This study is about sentimental levels and pronouns of texts in relation to genre. Genres with dissimilar explicit or implicit requirements can result in different word choices, uses of pronouns, depending on the specific requisites on objectivity of the genre. Formal writing genres, like essays, often expect authors to write in scientific manners, employing less sentimental words, more objective words, and third-person pronouns, whereas fictions or personal letters have contradicting expectations for their authors. In this way, through text analysis and sentiment analysis and comparing and contrasting sentimental levels and pronounces used in different genres and results of analysis from each genre, the study can hypothetically predict of the genre of the text, based on sentimental and pronounces the text contained. 
+This study is about sentimental levels and pronouns of texts in relation to genre. Genres with dissimilar explicit or implicit requirements can result in different word choices, uses of pronouns, depending on the specific requisites on objectivity of the genre. Formal writing genres, like essays, often expect authors to write in a scientific manner, employing less sentimental words, more objective words, and third-person pronouns, whereas fiction or personal letters have contradicting expectations for their authors. In this way, through text analysis and sentiment analysis and comparing and contrasting sentimental levels and pronounces used in different genres and results of analysis from each genre, the study can hypothetically predict of the genre of the text, based on sentimental and pronounces the text contained.
+
+<!--
+
+So basically, you are looking at how the use of pronouns and sentiment words can be used to identify the genre of a text. This is a really interesting question, and I think that you are right that different genres will have different expectations for the use of pronouns and sentiment words.
+
+Make sure you identify research that concerns the genres you are interested in. For example, if you are interested in fan fiction, you should look for research that concerns fan fiction, or related genres. You might not find specific research on fan fiction, but you might find research on other genres that are similar.
+
+-->
+
 
 ## Literature review
 
-Balahur presents a method for sentiment analysis using Twitter data (tweets) as an example, taking into account their structure, length and specific language. The approach employed makes it easily extendible to other languages and makes it able to process tweets in near real time. The main contri- butions of this work are: a) the pre-processing of tweets to normalize the language and gener- alize the vocabulary employed to express sentiment; b) the use minimal linguistic process- ing, which makes the approach easily portable to other languages; c) the inclusion of higher order n-grams to spot modifications in the po- larity of the sentiment expressed; d) the use of simple heuristics to select features to be em- ployed; e) the application of supervised learn- ing using a simple Support Vector Machines linear classifier on a set of realistic data. Similar methods can be applied in analyzing data collected for this research @JRC82012.
+@balahur-2013-sentiment presents a method for sentiment analysis using Twitter data (tweets) as an example, taking into account their structure, length and specific language. The approach employed makes it easily extendible to other languages and makes it able to process tweets in near real time. The main contributions of this work are: (a) the pre-processing of tweets to normalize the language and generalize the vocabulary employed to express sentiment; (b) the use minimal linguistic processing, which makes the approach easily portable to other languages; (c) the inclusion of higher order n-grams to spot modifications in the polarity of the sentiment expressed; (d) the use of simple heuristics to select features to be employed; (e) the application of supervised learning using a simple Support Vector Machines linear classifier on a set of realistic data. Similar methods can be applied in analyzing data collected for this research. <!-- not necessary to cite twice in the same description -->
 
-The paper "OPINION EVENTS: TYPES AND OPINION MARKERS IN ENGLISH SOCIAL MEDIA DISCOURSE" by Barbara Lewandowska-Tomaszczyk investigates opinion events and opinion markers in English social media discourse. It explores various types of opinion events and identifies the linguistic markers used to express opinions in online discussions. The study employs a corpus-based approach to analyze social media data and identifies patterns in how opinions are expressed and shared on platforms like Twitter or Facebook. The paper provides insights into the structure and characteristics of opinion events in online discourse, shedding light on the role of language in shaping and disseminating opinions in the digital age @LewandowskaTomaszczyk2023.
+<!-- There are many ways to use inline citations. See https://quarto.org/docs/authoring/footnotes-and-citations.html#sec-citations for more information -->
 
-Andreotta presents a mixed-methods approach for analyzing social media data that integrates computational and qualitative text analysis techniques. The framework proposed in the paper combines quantitative methods such as machine learning and natural language processing with qualitative methods like thematic analysis and discourse analysis. This comprehensive approach enables researchers to gain deeper insights into social media data by combining the strengths of both computational and qualitative approaches. The paper discusses the rationale behind using mixed methods, outlines the steps involved in the framework, and provides examples of how it can be applied in social media research. Overall, the paper contributes to the methodological toolkit for studying social media phenomena by offering a systematic and flexible approach that leverages the complementary strengths of computational and qualitative analysis methods @Andreotta2019. 
+The paper "OPINION EVENTS: TYPES AND OPINION MARKERS IN ENGLISH SOCIAL MEDIA DISCOURSE" by @LewandowskaTomaszczyk2023 investigates opinion events and opinion markers in English social media discourse. It explores various types of opinion events and identifies the linguistic markers used to express opinions in online discussions. The study employs a corpus-based approach to analyze social media data and identifies patterns in how opinions are expressed and shared on platforms like Twitter or Facebook. The paper provides insights into the structure and characteristics of opinion events in online discourse, shedding light on the role of language in shaping and disseminating opinions in the digital age.
 
-Despot discusses the current automatic detection mechanism of offensive language and its shortcomings and how current situation can be improved. This study argues that current difficulties in detecting implicit offence are exacerbated by multiple factors: (a) inadequate definitions of implicit and explicit offense; (b) an insufficient typology of implicit offence; and (c) a dearth of detailed analysis of implicitly offensive linguistic data. In this study, based on a qualitative analysis of an implicitly offensive dataset, a new typology of implicitly offensive language is proposed along with a detailed, example-led account of the new typology, an operational definition of implicitly offensive language, and a thorough analysis of the role of figurative language and humour in each type. Our analyses identify three main issues with previous datasets and typologies used in NLP approaches: (a) conflating content and form in the annotation; (b) treating figurativeness, particularly metaphor, as the main device of implicitness, while ignoring its equally important role in the explicit offence; and (c) an over-focus on form-specific datasets (e.g. focusing only on offensive comparisons), which fails to reflect the full complexity of offensive language use. This article could be referential being applied to the filed of sentimental analysis, since sentiments are also subtle, contextual, and plausibly deniable. Through combining context and machine learning, computational analysis and detection mechanism may be more accurate inthe future @Despot2023. 
+@Andreotta2019 presents a mixed-methods approach for analyzing social media data that integrates computational and qualitative text analysis techniques. The framework proposed in the paper combines quantitative methods such as machine learning and natural language processing with qualitative methods like thematic analysis and discourse analysis. This comprehensive approach enables researchers to gain deeper insights into social media data by combining the strengths of both computational and qualitative approaches. The paper discusses the rationale behind using mixed methods, outlines the steps involved in the framework, and provides examples of how it can be applied in social media research. Overall, the paper contributes to the methodological toolkit for studying social media phenomena by offering a systematic and flexible approach that leverages the complementary strengths of computational and qualitative analysis methods.
+
+@Despot2023 discusses the current automatic detection mechanism of offensive language and its shortcomings and how current situation can be improved. This study argues that current difficulties in detecting implicit offence are exacerbated by multiple factors: (a) inadequate definitions of implicit and explicit offense; (b) an insufficient typology of implicit offence; and (c) a dearth of detailed analysis of implicitly offensive linguistic data. In this study, based on a qualitative analysis of an implicitly offensive dataset, a new typology of implicitly offensive language is proposed along with a detailed, example-led account of the new typology, an operational definition of implicitly offensive language, and a thorough analysis of the role of figurative language and humour in each type. Their analyses identify three main issues with previous datasets and typologies used in NLP approaches: (a) conflating content and form in the annotation; (b) treating figurativeness, particularly metaphor, as the main device of implicitness, while ignoring its equally important role in the explicit offence; and (c) an over-focus on form-specific datasets (e.g. focusing only on offensive comparisons), which fails to reflect the full complexity of offensive language use. This article could be referential being applied to the filed of sentimental analysis, since sentiments are also subtle, contextual, and plausibly deniable. Through combining context and machine learning, computational analysis and detection mechanism may be more accurate inthe future @Despot2023.
+
+<!--
+
+These are some good articles with some promising methods and results. I definitely seem some overlap with the direction your research is going, but I also note that these source focus by-and-large on social media. I would encourage you to use these sources as a starting point, but also to look for sources that focus on other genres of writing --specifically fiction and academic writing. I think that the differences in the way that people write on social media and in fiction or academic writing could be quite different, but having research that focuses on these other genres would be helpful to make that case.
+
+Keep up the good work and I look forward to seeing how your research develops!
+-->
 
 # Methods
 
-Recalling that the aim of this study is to explore sentimental levels and pronouns of texts in relation to genre, units of observation here will be writings in various genres, and variables needed to explore will be: **sentimental words**, **sentimental level of the word** (Super positive/negative, positive/negative, or neutral), **number of sentimental words contained**, **pronouns** (first, second, or third), **number of pronouns words contained**, and **genre of the text** (fan fiction, novel, letters, email, academic writing, etc.). 
-First, data will be pulled from social media and other types of textual corpora database. Then, the pulled texts will first be processed and needed variables will be extracted from the collected texts. Thirdly, subsets of data will be analyzed respectively to examine whether or not its results fit the hypothesis. Lastly, all the data and their correlation will be visualized. 
+Recalling that the aim of this study is to explore sentimental levels and pronouns of texts in relation to genre, units of observation here will be writings in various genres, and variables needed to explore will be: **sentimental words**, **sentimental level of the word** (Super positive/negative, positive/negative, or neutral), **number of sentimental words contained**, **pronouns** (first, second, or third), **number of pronouns words contained**, and **genre of the text** (fan fiction, novel, letters, email, academic writing, etc.).
 
-# Data preparation & Analysis 
+First, data will be pulled from social media <!-- so social media is part of your focus? -->and other types of textual corpora database<!-- consider more specifically what kind of text you are aiming for at this point. -->. Then, the pulled texts will first be processed and needed variables will be extracted from the collected texts. Thirdly, subsets of data will be analyzed respectively to examine whether or not its results fit the hypothesis <!-- From the way things are framed so far, it sounded like you are looking to do a predictive analysis to seek validation, not confirmation, as would be the case with a hypothesis testing analysis-->. Lastly, all the data and their correlation will be visualized.
+
+<!--
+
+Consider more closely the data sources you will use, and why you will you use them, versus other possible sources. Remember, the goal is to align your data sources with your research question. This may mean you tweak your research question to better fit the data you have access to, or it may mean you need to find different data.
+
+Another point concerns other aspects of the methods. You will be gaining more knowledge about the methods you will have available to you as we proceed through the semester, so you may need to revisit this section later.
+
+-->
+
+# Data preparation & Analysis
 
 **Phase 1: Harvest social media data and compile a corpus**
 
-In this stage, automated tools can be used to query records of social media data, extract this data, and compile it into a corpus @Andreotta2019. Ideally, [API](https://ao3-api.readthedocs.io/en/latest/) of [AO3](https://archiveofourown.org/) can be used to extract data from it, and the collected data will incorporate into a larger database like [COCA](https://www.english-corpora.org/) or [LDC](https://www.ldc.upenn.edu/), which contains writings in other genres. The collected data will first be categorized based on their genre, such as fiction, novel, or letter, etc. 
+In this stage, automated tools can be used to query records of social media data, extract this data, and compile it into a corpus @Andreotta2019. Ideally, [API](https://ao3-api.readthedocs.io/en/latest/) of [AO3](https://archiveofourown.org/) can be used to extract data from it, and the collected data will incorporate into a larger database like [COCA](https://www.english-corpora.org/) or [LDC](https://www.ldc.upenn.edu/), which contains writings in other genres. The collected data will first be categorized based on their genre, such as fiction, novel, or letter, etc.
+
+<!--
+
+OK. Very cool. I did not know about the AO3 site. The API is not official and is a web scraping tool. Looking at the AO3 site, it is allowed to scrape the site (https://archiveofourown.org/faq/downloading-fanworks?language_id=en#bookmarkservice).
+
+Webscraping is a more advanced technique, but it is clear that there is a lot of data available on the AO3 site.
+
+In terms of the other data sources, you'll probably want to focus in on one other source that compares to the source(s) you are using from AO3. For example, you may want to focus on Movie fan fiction and then compare that to movie scripts. Or you may want to focus on a specific type of fan fiction and compare that to a specific type of novel.
+
+The COCA has various genres which might map on well:
+
+- TV corpus
+- Movie corpus
+- Soap opera corpus
+
+The LDC has a lot of different types of data, but it might be more difficult to find a good comparison.
+
+Another couple sources to consider are:
+
+- JSTOR for academic writing
+- Project Gutenberg for novels
+
+-->
+
 
 **Phase 2: Categorize and subset variables**
 
-All the sentimental words will be extracted from the text and classified into the basic categories, using the method of sentimental analysis. The average level of sentiments in each genre will be calculated. Each level of sentiments will be assigned a distinct value (*E.g. Super positive/negative-1, positive/negative-0.5, neutral-0*). 
+All the sentimental words will be extracted from the text and classified into the basic categories, using the method of sentimental analysis. The average level of sentiments in each genre will be calculated. Each level of sentiments will be assigned a distinct value (*E.g. Super positive/negative-1, positive/negative-0.5, neutral-0*).
+
+<!-- When we get to tranformation, you will get more ideas about how to approach this. -->
 
 Then, similar methods will be employed to find relation between the use of pronounce and genre. All the pronouns used in text will also be extracted from the text and classified them to be first, second, or third-pronoun. The percentage of each type of pronouns used in each text will be calculated, then the average percentage of each type of pronouns used in each genre can also be calculated. The preferences in the use of pronouns in each genre can then be indicated.
 
+<!-- This should be all to hard as pronouns are a closed-class set of words -->
 
 **Phase 3: Analyze and visualize**
 
 First, using sum of all the values in each text to divide the total number of sentimental words will be the average strong level of sentimental words in the text, and using this value, the average strong level of sentimental words in each genre will then be found. Tables representing sentimental level of text in relation of genre can then be drawn.
-Similarly, tables that visualize relation between genre and preference in the use of pronouns, or pronoun preference and strong level of sentimental words in each genre will be displayed, which will either prove or falsify the hypothesis.  
+Similarly, tables that visualize relation between genre and preference in the use of pronouns, or pronoun preference and strong level of sentimental words in each genre will be displayed, which will either prove or falsify the hypothesis.
+
+<!-- Glad to see you are thinking about this process. -->
 
 # Expected results
 
-Formal academic writing is more likely to use third-person pronouns and neutral level of sentimental words, compared to fan fiction/ If the the text employ more first/second pronouns with the use of strong level of sentimental words, it is likely to be fiction. 
+Formal academic writing is more likely to use third-person pronouns and neutral level of sentimental words, compared to fan fiction/ If the the text employ more first/second pronouns with the use of strong level of sentimental words, it is likely to be fiction.
+
+<!-- Depending on what you are aiming to gain in terms of insight, this project prospectus sounds like it is either an exploratory analysis or a predictive analysis. You will be able to appreciate better which direction you will want to take latter on when we get to the analysis chapters this semester. -->
 
 # Communication plan
 
-The intended audience for the study can be anyone who is interested in linguistics, or anyone who wants to explore how genre may influence writers' word choices in the use of pronouns and sentimental words. The results of the study will be presented orally and visually in class, and the html version of the study will be open-source for the public, which audiences may find in github. 
+The intended audience for the study can be anyone who is interested in linguistics, or anyone who wants to explore how genre may influence writers' word choices in the use of pronouns and sentimental words. The results of the study will be presented orally and visually in class, and the html version of the study will be open-source for the public, which audiences may find in github.
+
+<!-- Again, good to see you are thinking about this. -->
 
 # Conclusion
 
