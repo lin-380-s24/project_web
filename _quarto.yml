@@ -1,5 +1,5 @@
 project:
-  title: "Web project" # Project title
+  title: "Web project" # Update your project title
   type: website
   output-dir: _site/ # Website directory
 
@@ -22,7 +22,7 @@ website:
         contents: reports/*
     tools:
       - icon: github
-        href: https:://github.com
+        href: https://github.com/LINWANG1234/project # adds repo link to sidebar
 
 format:
   html:
