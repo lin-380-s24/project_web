@@ -6,8 +6,8 @@ project:
 website:
   page-navigation: true # Enable page navigation
   reader-mode: true # Enable reader mode
-  site-url: "https://username.github.io/repo" # Website URL
-  repo-url: https://github.com/username/repo # Repository URL
+  site-url: "https://brelaws.github.io/project/" # Website URL
+  repo-url: https://github.com/brelaws/project # Repository URL
   repo-actions: [source, issue] # Repository actions
   sidebar:
     style: "docked" # Sidebar style
@@ -22,7 +22,7 @@ website:
         contents: reports/*
     tools:
       - icon: github
-        href: https:://github.com
+        href: https://github.com/brelaws/project
 
 format:
   html:
