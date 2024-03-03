@@ -1,5 +1,5 @@
 project:
-  title: "Web project" # Project title
+  title: "Web project" # You may consider updating the site title
   type: website
   output-dir: _site/ # Website directory
 
@@ -22,7 +22,7 @@ website:
         contents: reports/*
     tools:
       - icon: github
-        href: https:://github.com
+        href: https://github.com/Liuzhang2/project_web
 
 format:
   html:
