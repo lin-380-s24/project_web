@@ -30,11 +30,29 @@ This section will contain my analysis of various sources that inform my thinking
 
 I will practice inserting the citations here: @Rafeeq2023, @Amer2017, @Alnwihe2023
 
-These sources do a good job at identifying media language surrounding large conflicts. One of the studies contains a comparative analysis of US and UK press coverage of the Gaza War of 2008-2009 @Amer2017-df. Another article speaks to the concept of specialized rhetoric in othering various groups and how the language that the speakers use further this effort @Alnwihe2023.
+<!-- Inline citations can take various formats; See https://quarto.org/docs/authoring/footnotes-and-citations.html#sec-citations for more info  -->
 
-Many articles talk about the general bias of media and how this manifests in individual outlets' language. However, I want to narrow this research down specifically to the language of the media surrounding various groups that have been identified as "terrorist groups" by governmental bodies. For example, Associated Press Style guidelines instruct journalists to refer to Hamas as a militant group, rather than a terrorist group, which is how they are identified by the US State Department as a terrorist group. 
+These sources do a good job at identifying media language surrounding large conflicts. One of the studies contains a comparative analysis of US and UK press coverage of the Gaza War of 2008-2009 [@Amer2017]. Another article speaks to the concept of specialized rhetoric in othering various groups and how the language that the speakers use further this effort @Alnwihe2023.
+
+Many articles talk about the general bias of media and how this manifests in individual outlets' language. However, I want to narrow this research down specifically to the language of the media surrounding various groups that have been identified as "terrorist groups" by governmental bodies. For example, Associated Press Style guidelines instruct journalists to refer to Hamas as a militant group <!-- citation? -->, rather than a terrorist group, which is how they are identified by the US State Department as a terrorist group.
 
 My research is not to determine what is right or wrong but, rather, to see the language choices various outlets make when confronted with the choice of whether to use the risky word "terrorist" in their publications. Furthermore, I want to examine how these word choices may or may not affect the attitudes of readers toward various groups and toward the notion of US interference with these groups.
+
+<!--
+This sounds like a sound idea. A few questions to consider as you move forward:
+
+1. Are there articles that explore simililar ideas in the text or corpus analysis literature?
+
+Having some articles to use as reference in terms of the methods and/ or datasources would be a big help.
+
+2. Speaking of data, you will want to start doing some research to find out what sources may be available and how well they may align with the research your are developing.
+
+Many, many, great research ideas run into problems when it comes to finding adequate resources to use as primary data. For the issues that you are aiming to explore, you will likely need data which contains fairly recent newsmedia language, although you could focus on the language surrounding a particular context or event that is not as recent, but still relevant.
+
+
+This is a really interesting idea and I am looking forward to seeing how it develops. Continue to do your research and keep refining your ideas. Use the knowledge you are developing in data acquisition, curation/ transformation, and analysis to help guide your research prospectus.
+
+-->
 
 # Methods
 
