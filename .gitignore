@@ -24,3 +24,6 @@
 /.quarto/
 /_site/
 .Rproj.user
+
+README_files/*
+README.html
