@@ -5,7 +5,7 @@ date-format: medium
 author:
   - name: "Linzhuo Li"
     email: lil23@wfu.edu
-    affiliation: "Your affiliation"
+    affiliation: "Wake Forest University"
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
 keywords:
@@ -17,15 +17,24 @@ bibliography: ../bibliography.bib
 
 # Introduction
 
-Study Corpus linguistics of English grammar 
+Study Corpus linguistics of English grammar
 
 ## Literature review
 
 Most previous literature on the corpus study of English grammar is for educational purposes. Numerous contemporary theories of language comprehension emphasize the significance of distributional frequencies in determining the relative accessibility or processing ease linked to specific lexical items or sentence structures. Despite this emphasis, there is a scarcity of comprehensive analyses on structural frequencies, and minimal attention has been devoted to assessing the suitability of employing any specific corpus frequencies for modeling human language.The current research question is to discover the significant characteristics of English grammar.
 
+<!--
+
+This overview is a good start, but it is important to weave the literature you have been using to build your research question into this section.
+
+So for example, if you have a reference in your `.bib` file, you will want to cite here with the appropiate citation key (@Author2023)
+
+-->
+
+
 # Methods
 
-Data Acquisition:
+1. Data Acquisition:\
 The study utilizes diverse English texts from reputable linguistic databases like the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA).
 
 Data Organization:
@@ -80,7 +89,7 @@ My research focuses on advancing the understanding of English grammar through co
 
 What did you learn?
 
-corpus linguistics study is mush complex than I expected. 
+corpus linguistics study is mush complex than I expected.
 
 What was most/ least challenging?
 
