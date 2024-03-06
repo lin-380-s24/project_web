@@ -3,8 +3,8 @@ title: "Prospectus"
 date-modified: today
 date-format: medium
 author:
-  - name: "Your name"
-    email: youremail@school.edu
+  - name: "Linzhuo Li"
+    email: lil23@wfu.edu
     affiliation: "Your affiliation"
 abstract: |
   This is a sample prospectus. It is a work in progress and will be updated as needed as the semester progresses.
@@ -17,31 +17,48 @@ bibliography: ../bibliography.bib
 
 # Introduction
 
-
+Study Corpus linguistics of English grammar 
 
 ## Literature review
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+Most previous literature on the corpus study of English grammar is for educational purposes. Numerous contemporary theories of language comprehension emphasize the significance of distributional frequencies in determining the relative accessibility or processing ease linked to specific lexical items or sentence structures. Despite this emphasis, there is a scarcity of comprehensive analyses on structural frequencies, and minimal attention has been devoted to assessing the suitability of employing any specific corpus frequencies for modeling human language.The current research question is to discover the significant characteristics of English grammar.
 
 # Methods
 
-This section describes the data preparation and analysis methods that will be used to address the research question or hypothesis. It should include a detailed description of the data acquisition, data organization, and data enrichment process, as well as the feature selection and engineering, analysis techniques, and evaluation process.
+Data Acquisition:
+The study utilizes diverse English texts from reputable linguistic databases like the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA).
+
+Data Organization:
+Texts are segmented into sentences and tokenized for linguistic unit extraction. The dataset is then formatted for structured computational analysis.
+
+Data Enrichment:
+Linguistic annotations and metadata such as part-of-speech tags and syntactic parse trees are added to enhance the corpus, enabling nuanced insights.
+
+Feature Selection and Engineering:
+Various linguistic features like word frequencies, collocational patterns, and syntactic constructions are chosen for analysis. Feature engineering may be used to derive novel linguistic attributes.
+
+Analysis Techniques:
+Quantitative and computational linguistics methods including frequency analysis, distributional analysis, and machine learning models are employed to identify patterns and trends in the data.
+
+Evaluation Process:
+Exploratory data analysis, inter-annotator agreement measures, and cross-validation techniques ensure the validity and reliability of the findings across different linguistic contexts.
+
 
 ## Data preparation
 
-This section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.
+The data for this study originates from diverse English texts sourced from reputable linguistic databases such as the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA). Collection involves systematic retrieval based on predefined criteria followed by thorough cleaning to eliminate noise and inconsistencies. Additionally, the dataset is enriched through linguistic annotations including part-of-speech tags and syntactic structures. Normalization techniques ensure consistency, while sampling and partitioning may be employed for manageability. This rigorous process aims to establish a high-quality dataset, facilitating the subsequent analysis of English grammar characteristics with reliability and depth.
 
 ## Data analysis
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+In analyzing English grammar characteristics, the study employs a careful selection of linguistic features, including word frequencies, collocational patterns, and syntactic structures, further refined through feature engineering techniques. Quantitative and computational linguistics methods such as frequency and distributional analysis, alongside machine learning models and natural language processing algorithms, unveil nuanced patterns within the corpus. Rigorous evaluation, encompassing exploratory data analysis, measures of inter-annotator agreement, and cross-validation techniques, ensures the credibility and reliability of the findings across diverse linguistic contexts and datasets, establishing a robust foundation for deriving meaningful insights.
 
 # Expected results
 
-This section presents the hypothesized findings based on the research question and analysis methods. It should include a clear statement of the expected results and their potential implications for the field of Linguistics and language science.
+The analysis is expected to reveal prominent structural patterns in English grammar, including collocational patterns and syntactic constructions. These findings may elucidate language comprehension mechanisms and processing ease. Moreover, insights from corpus-based frequencies could refine linguistic theories, inform pedagogy, and advance computational language modeling, impacting Linguistics and language science.
 
 # Communication plan
 
-This section describes the plan for reporting, presenting, and sharing the results of the study. It should include a detailed description of the intended audience for the study, the format of the final report, and any plans for sharing the results with the broader community.
+The study's findings will be disseminated through multiple channels to maximize impact. The primary audience includes researchers and scholars in linguistics, corpus linguistics, and language processing. The results will be presented in academic conferences and peer-reviewed journals, ensuring visibility within the scholarly community. Additionally, efforts will be made to share key insights through online platforms, including research blogs and social media, to engage a broader audience interested in language science and computational linguistics. This comprehensive communication plan aims to facilitate knowledge exchange and foster collaboration across disciplinary boundaries.
 
 # Conclusion
 
@@ -54,3 +71,24 @@ This section includes a list of sources cited in the prospectus. It should be fo
 # Appendix {.appendix}
 
 This section includes any additional information that is relevant to the prospectus, such as data sources, code, or other supplementary materials.
+
+# research statement
+
+My research focuses on advancing the understanding of English grammar through corpus linguistics analysis. By examining distributional frequencies and structural patterns in diverse English texts, I aim to uncover significant characteristics of language comprehension and processing ease. My study contributes to the field of linguistics by refining existing theories and models and informing pedagogical approaches. Through rigorous analysis and dissemination efforts, I seek to engage both academic and broader communities interested in language science and computational linguistics, fostering knowledge exchange and collaboration across.
+
+# Assessing your progress
+
+What did you learn?
+
+corpus linguistics study is mush complex than I expected. 
+
+What was most/ least challenging?
+
+Finding the appropriate materials of the study and choosing the method of handle them.
+
+What resources did you consult?
+Google scholar and wiki and some random websites that explain corpus linguistic study.
+
+What more would you like to know about?
+
+how to deal with huge amount of text effectivel.
