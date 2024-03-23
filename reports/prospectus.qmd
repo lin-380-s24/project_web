@@ -28,11 +28,11 @@ Formatting:
 
 ## Intro
 
-The field of community interpreting, which involves facilitating communication in everyday settings such as lawyers' offices, doctor's surgeries, and school orientations [@hale2007community], has experienced significant growth since World War II due to increased migration [@pochhacker1999getting]. However, in China, community interpreting is still in its early stages [@Liu2014], primarily concentrated in areas such as law, medical care, and administration [@Luo2018]. Community interpreting extends beyond language translation to encompass social work as well [@gehrke1990community], adding complexity to the role of community interpreters [@pollabauer2013community]. Although studies on the roles of community interpreters in China have predominantly focused on the business domain [@Jiang2021], there remains limited research on other domains—a topic that piques my interest.
+The field of community interpreting, which involves facilitating communication in everyday settings such as lawyers' offices, doctor's surgeries, and school orientations [@hale2007community], has experienced significant growth since World War II due to increased migration [@pochhacker1999getting]. However, in China, community interpreting is still in its early stages [@Liu2014], primarily concentrated in areas such as law, medical care, and administration [@Luo2018]. Community interpreting extends beyond language translation to encompass social work as well [@gehrke1990community], adding complexity to the role of community interpreters [@pollabauer2013community]. In recent years, esports has undergone industrialization, evolving into a legitimate “Made in China” industry. It has become a trendy form of entertainment and sports consumption [@Zhao2023HistoryESports]. This shift was exemplified at the Hangzhou Asian Games this year when esports made its official debut as a competitive event on the global stage. During the opening ceremony of the 141st IOC Session on October 14th, 2023, International Olympic Committee President Bach hinted at the IOC’s contemplation of establishing a dedicated Olympic event for esports [@Qiu2023enterOly]. 
 
 ## Research problem
 
-In China, there is a scarcity of studies specifically examining the role of community interpreters through corpus analysis (text analysis). Those studies that do, focus on community interpreters' roles. These studies tend to emphasize the multifaceted nature of their responsibilities [@Chen2017; @Wen2021] or highlight the challenges they encounter [@Jiang2021; @Cao2018] rather than offering prescriptive guidance on their ideal roles.
+Previous studies have primarily addressed discrepancies between interpreters’ role perceptions and users’ expectations (e.g. @Ma2021T19) or highlighted challenges and coping strategies for interpreters within the esports domain (e.g. @Ruan2019LOL; @Zhao2019AsiEsports). Limited attention has been paid to interpreters’ specific roles within the esports domain. Li & Gao (2021) noted that research on interpreter roles in China tends to confine itself to textual analysis, focusing on the translation content itself, seeking rules and guidance within interpreting practices. [@bao2016using] utilized multimodal analysis to include linguistic and non-linguistic information to analyze interpreters role in different cases. [@hlavac2017brokers] utilized discourse markers to determine interpreters role in different settings. [@hsieh2012medical] applied the comparative analysis to analyze the interviews' transcripts of interpreters and health care providers. [@kratochvilovasociolinguistic] also focused on healthcare setting where combining interpreting transcripts'analysis and interpreters' interview. The focus of analyzing interpreters' role in transcripts shows a potential to explore interpreters' role from non-lingistic level. 
 
 <!--
 
@@ -45,9 +45,8 @@ I would suggest you delve more into the studies that have approached community i
 
 ## Research questions
 
-(@) Can corpus analysis (text analysis) be utilized to standardize the role of community interpreters?
-(@) What role is considered most acceptable for community interpreters?
-(@) What role do community interpreters primarily play?
+(@) What role is considered most acceptable for esports interpreters in China?
+(@) What role do esports interpreters primarily play in China?
 
 <!--
 
@@ -62,7 +61,7 @@ I look forward to seeing how you refine your research questions in the next draf
 
 ## Research objectives
 
-Exploring the standardization of the role of community interpreters
+Exploring the role of community interpreters to potentially help the general public to notice community interpreters' position and to understand their work
 
 <!--
 
@@ -74,8 +73,8 @@ These are only some of the questions that occur to me when I read your research 
 
 ## Expected impact
 
-(@) To broaden research methodologies for analyzing the role of community interpreters, as the majority of studies focus on interpreting transcripts, particularly interpreting strategies [@LiGao2021].
-(@) Establishing a foundation for standardizing the role of community interpreters.
+(@) To broaden research methodologies for analyzing the role of community interpreters in China, as the majority of studies focus on interpreting transcripts, particularly interpreting strategies [@LiGao2021].
+(@) Boosting interpreters' notice to their roles in community interpreting and educating the general public about interpreters' work.
 
 <!--
 
