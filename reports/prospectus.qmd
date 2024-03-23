@@ -13,7 +13,7 @@ keywords:
   - sample
 citation: true
 number-sections: true
-bibliography: "../bibliography.bib", "../packages.bib"
+bibliography: ["../bibliography.bib", "../packages.bib"]
 ---
 
 # Research Statement
@@ -24,7 +24,7 @@ The field of community interpreting, which involves facilitating communication i
 
 ## Research problem
 
-Previous studies have primarily addressed discrepancies between interpreters’ role perceptions and users’ expectations (e.g. @Ma2021T19) or highlighted challenges and coping strategies for interpreters within the esports domain (e.g. @Ruan2019LOL; @Zhao2019AsiEsports). Limited attention has been paid to interpreters’ specific roles within the esports domain. Li & Gao (2021) noted that research on interpreter roles in China tends to confine itself to textual analysis, focusing on the translation content itself, seeking rules and guidance within interpreting practices. [@bao2016using] utilized multimodal analysis to include linguistic and non-linguistic information to analyze interpreters role in different cases. [@hlavac2017brokers] utilized discourse markers to determine interpreters role in different settings. [@hsieh2012medical] applied the comparative analysis to analyze the interviews' transcripts of interpreters and health care providers. [@kratochvilovasociolinguistic] also focused on healthcare setting where combining interpreting transcripts' analysis and interpreters' interview. The focus of analyzing interpreters' role in transcripts shows a potential to explore interpreters' role from non-lingistic level. 
+Previous studies have primarily addressed discrepancies between interpreters’ role perceptions and users’ expectations (e.g. @Ma2021T19) or highlighted challenges and coping strategies for interpreters within the esports domain (e.g. @Ruan2019LOL; @Zhao2019AsiEsports). Limited attention has been paid to interpreters’ specific roles within the Esports domain. @Li2021Rolegrap noted that research on interpreter roles in China tends to confine itself to textual analysis, focusing on the translation content itself, seeking rules and guidance within interpreting practices. @bao2016using utilized multimodal analysis to include linguistic and non-linguistic information to analyze interpreters role in different cases. @hlavac2017brokers utilized discourse markers to determine interpreters role in different settings. @hsieh2012medical applied the comparative analysis to analyze the interviews' transcripts of interpreters and health care providers. @kratochvilovasociolinguistic also focused on healthcare setting where combining interpreting transcripts' analysis and interpreters' interview. The focus of analyzing interpreters' role in transcripts shows a potential to explore interpreters' role from non-lingistic level. 
 
 ## Research questions
 
