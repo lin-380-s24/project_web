@@ -85,6 +85,19 @@ This section includes any additional information that is relevant to the prospec
 
 My research focuses on advancing the understanding of English grammar through corpus linguistics analysis. By examining distributional frequencies and structural patterns in diverse English texts, I aim to uncover significant characteristics of language comprehension and processing ease. My study contributes to the field of linguistics by refining existing theories and models and informing pedagogical approaches. Through rigorous analysis and dissemination efforts, I seek to engage both academic and broader communities interested in language science and computational linguistics, fostering knowledge exchange and collaboration across.
 
+# Brainstorming
+
+For addressing the research problem of uncovering significant characteristics of English grammar, ideal data would include diverse English texts from reputable linguistic databases like the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA). These datasets should cover various genres, styles, and registers with annotated linguistic features such as part-of-speech tags and syntactic structures, facilitating structured computational analysis. While BNC and COCA align well, misalignment may occur in specific linguistic features or genres, necessitating the curation of supplementary datasets to fill gaps. Data should be structured for segmentation, tokenization, and standardized annotation formats to ensure consistency.
+
+
+# Draft a data preparation strategy
+
+Acquisition: Obtain diverse English texts from BNC and COCA, ensuring representation across genres and linguistic contexts.
+Curation: Curate supplementary datasets to address misalignments in linguistic features or genres. Standardize annotation formats across datasets.
+Transformation: Preprocess data by segmenting into sentences, tokenizing, and adding linguistic annotations like part-of-speech tags and syntactic structures.
+Normalization: Standardize data formats and structures across datasets. Apply normalization techniques to eliminate noise and inconsistencies.
+Validation: Validate curated datasets through exploratory data analysis and inter-annotator agreement measures to ensure reliability for subsequent analysis.
+
 # Assessing your progress
 
 What did you learn?
