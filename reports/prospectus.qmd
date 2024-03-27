@@ -20,44 +20,91 @@ bibliography: ["../bibliography.bib", "../packages.bib"]
 
 ## Intro
 
-The field of community interpreting, which involves facilitating communication in everyday settings such as lawyers' offices, doctor's surgeries, and school orientations [@hale2007community], has experienced significant growth since World War II due to increased migration [@pochhacker1999getting]. However, in China, community interpreting is still in its early stages [@Liu2014], primarily concentrated in areas such as law, medical care, and administration [@Luo2018]. Community interpreting extends beyond language translation to encompass social work as well [@gehrke1990community], adding complexity to the role of community interpreters [@pollabauer2013community]. In recent years, esports has undergone industrialization, evolving into a legitimate “Made in China” industry. It has become a trendy form of entertainment and sports consumption [@Zhao2023HistoryESports]. This shift was exemplified at the Hangzhou Asian Games this year when esports made its official debut as a competitive event on the global stage. During the opening ceremony of the 141st IOC Session on October 14th, 2023, International Olympic Committee President Bach hinted at the IOC’s contemplation of establishing a dedicated Olympic event for esports [@Qiu2023enterOly]. 
+The field of community interpreting, which involves facilitating communication in everyday settings such as lawyers' offices, doctor's surgeries, and school orientations [@hale2007community], has experienced significant growth since World War II due to increased migration [@pochhacker1999getting]. However, in China, community interpreting is still in its early stages [@Liu2014], primarily concentrated in areas such as law, medical care, and administration [@Luo2018]. Community interpreting extends beyond language translation to encompass social work as well [@gehrke1990community], adding complexity to the role of community interpreters [@pollabauer2013community]. In recent years, esports has undergone industrialization, evolving into a legitimate “Made in China” industry. It has become a trendy form of entertainment and sports consumption [@Zhao2023HistoryESports]. This shift was exemplified at the Hangzhou Asian Games this year when esports made its official debut as a competitive event on the global stage. During the opening ceremony of the 141st IOC Session on October 14th, 2023, International Olympic Committee President Bach hinted at the IOC’s contemplation of establishing a dedicated Olympic event for esports [@Qiu2023enterOly].
 
 ## Research problem
 
-Previous studies have primarily addressed discrepancies between interpreters’ role perceptions and users’ expectations (e.g. @Ma2021T19) or highlighted challenges and coping strategies for interpreters within the esports domain (e.g. @Ruan2019LOL; @Zhao2019AsiEsports). Limited attention has been paid to interpreters’ specific roles within the Esports domain. @Li2021Rolegrap noted that research on interpreter roles in China tends to confine itself to textual analysis, focusing on the translation content itself, seeking rules and guidance within interpreting practices. @bao2016using utilized multimodal analysis to include linguistic and non-linguistic information to analyze interpreters role in different cases. @hlavac2017brokers utilized discourse markers to determine interpreters role in different settings. @hsieh2012medical applied the comparative analysis to analyze the interviews' transcripts of interpreters and health care providers. @kratochvilovasociolinguistic also focused on healthcare setting where combining interpreting transcripts' analysis and interpreters' interview. The focus of analyzing interpreters' role in transcripts shows a potential to explore interpreters' role from non-lingistic level. 
+Previous studies have primarily addressed discrepancies between interpreters’ role perceptions and users’ expectations (e.g. @Ma2021T19) or highlighted challenges and coping strategies for interpreters within the esports domain (e.g. @Ruan2019LOL; @Zhao2019AsiEsports). Limited attention has been paid to interpreters’ specific roles within the Esports domain. @Li2021Rolegrap noted that research on interpreter roles in China tends to confine itself to textual analysis, focusing on the translation content itself, seeking rules and guidance within interpreting practices. @bao2016using utilized multimodal analysis to include linguistic and non-linguistic information to analyze interpreters role in different cases. @hlavac2017brokers utilized discourse markers to determine interpreters role in different settings. @hsieh2012medical applied the comparative analysis to analyze the interviews' transcripts of interpreters and health care providers. @kratochvilovasociolinguistic also focused on healthcare setting where combining interpreting transcripts' analysis and interpreters' interview. The focus of analyzing interpreters' role in transcripts shows a potential to explore interpreters' role from non-lingistic level.
 
 ## Research questions
 
 (@) What role is considered most acceptable for esports interpreters in China?
 (@) What role do esports interpreters primarily play in China?
 
+<!--
+I think that these questions are a bit broad and could be more specific. For example, you could focus on a specific aspect of the interpreters' role in esports, such as their use of non-verbal communication or their interaction with the audience. You could also consider comparing the roles of interpreters in different esports events or settings.
+
+Including terms such as 'most acceptable' and 'primarily' in the research questions may also introduce bias and it's not clear how these terms will be defined or measured. It may be helpful to clarify what you mean by 'most acceptable' and 'primarily' and how you plan to assess these aspects of the interpreters' role.
+
+-->
+
+
 ## Research objectives
 
-Exploring the role of community interpreters to potentially help the general public to notice community interpreters' position and to understand their work
+Exploring the role of community interpreters to potentially help the general public to notice community interpreters' position and to understand their work.
+
+<!--
+
+So the goal of this research is to raise awareness of the role of community interpreters in China and educate the general public about their work? I think it would be helpful to frame what the results might look like and how they could be used to achieve this goal. For example, you could consider how the results of the study could be used to inform training programs for interpreters or to develop guidelines for interpreters working in the esports domain.
+
+-->
 
 ## Expected impact
 
 (@) To broaden research methodologies for analyzing the role of community interpreters in China, as the majority of studies focus on interpreting transcripts, particularly interpreting strategies [@LiGao2021].
 (@) Boosting interpreters' notice to their roles in community interpreting and educating the general public about interpreters' work.
 
+<!--
+
+OK. So the goal/ impact is to serve as a survey of the ways in which interpreters' roles are represented in esports interpreting videos and to raise awareness of the role of community interpreters in China. Would you then evaluate the roles from a theoretical perspective or is the goal to provide a descriptive account to inform future research?
+
+-->
+
+
 ## Data
 
 (@) The ideal data should be interpreting videos which could reveal non-linguistic features or transcripts in Esports setting with annotations to show interpreters' gestures, positions, face expressions and so on during the interpreting prosess, both consecutive and simultaneous interpreting mode are acceptable to be included.
 
-(@) At least 8 columns which include: video_id, sentence_id, interpreter_id, source_text, target_text, gestures, body_orientation, and gaze. 
+(@) At least 8 columns which include: video_id, sentence_id, interpreter_id, source_text, target_text, gestures, body_orientation, and gaze.
 
 (@) A csv. file is preferred as the csv file is a tabular file which is more clear and easy to read.
 
 (@) Based on @wang2020corpus, it appears that interpreting corpora primarily concentrate on conference interpreting at the government level. Previous studies in corpus analysis in interpreting typically rely on their proprietary corpora (e.g. [@bao2016using]). I am considering collecting esports videos myself to obtain transcripts and manually record gestures, body orientation, and gaze.
 
+<!--
+
+Manually collecting and annotating the data could (will) be a time-consuming process. It may be worth it for a long-term project, but you may want to consider starting with a smaller dataset to test your methods and refine your research questions. You could also consider using existing datasets or proposing a collaboration with other researchers to collect data. The process of manual annotation is a research project in itself. One that does not fall within the scope of this course, but it is a valuable contribution to the field of interpreting studies. Keep that in mind.
+
+-->
+
+
 ## Data Preparation
 
 (@) Search for Esports interpreting videos online and retrieve subtitles using YouTube's automatic subtitle generation feature if they are not available. Review and edit the subtitles manually to produce the final version. Save the plain text as .txt files. Include annotations on interpreters' gestures, body orientation, and gaze in the text files. Access the files in R. At this stage, multiple files are required: one type contains transcripts in English to document the speaker's words, while another type comprises transcripts of interpreters' interpretations with annotations. Store each video's transcripts separately.
 
+<!--
+Note: There is a command-line tool for downloading YouTube videos and subtitles called `yt-dlp`. You can use it to download videos and subtitles in bulk. Talk to me if you want to know more about it.
+-->
+
+
 (@) Utilize the `readr`[@R-readr] package to read lines of text. Prior to further processing, ensure that the source text and the target text have the same number of lines using the `length()` function. Verify alignment between the source text and the target text. Utilize the `stringr`[@stringr2023] package and the `str_extract()` function to extract annotations by matching patterns. Use `str_view` to confirm pattern matches. Employ the `tibble()` function from the `tibble`[@tibble2023] package to include video_ID, sentence_ID, and interpreter_ID for each file. Video_ID and interpreter_ID can be added using `tibble(video_id/interpreter_id = "*")`, and sentence_ID can be added with `group_by(video_id) |> mutate(sentence_id = row_number())`. Then, create a function to read each file, check line alignment, extract annotations from interpreting transcripts, and create video_ID, sentence_ID, and interpreter_ID. Finally, generate three types of data frames: one for source text, one for target text, and one for annotations (including gestures, body orientation, and gaze)
 
+<!--
+Sentence alignment for source and translations is a common problem in corpus studies. It is good that you are considering this issue. However, it can be a complex problem to solve, especially when dealing with spoken language. There are alignment tools available that can help with this task, but they may not be perfect. You may need to manually check and correct the alignment in some cases.
+
+Some examples of alignment tools include:
+
+- [fast_align](https://github.com/clab/fast_align) for word alignment
+- [NLTK Align](https://www.nltk.org/api/nltk.align.html) for sentence alignment
+
+These tools, however, are much more advanced and are not R packages.
+-->
+
+
 (@) Transformation
-Utilize the `full_join()` function to merge all data frames into one tibble. Then, employ the `slice_sample()` function to identify any artifacts such as white spaces, typos, or punctuation problems that require verification. If any artifacts are found, use the `str_extract()` function along with `mutate()` to locate and remove the unwanted patterns. Next, consider breaking down each line into smaller units to expand the corpus and increase informativeness. Use `unnest_tokens()` to segment the text into smaller units. Finally, ensure that each step is documented both in prose and in code blocks. Create a data dictionary to describe the variables in the dataset
+Utilize the `full_join()` function to merge all data frames into one tibble. Then, employ the `slice_sample()` function to identify any artifacts such as white spaces, typos, or punctuation problems that require verification. If any artifacts are found, use the `str_extract()` function along with `mutate()` to locate and remove the unwanted patterns. Next, consider breaking down each line into smaller units to expand the corpus and increase informativeness. Use `unnest_tokens()` to segment the text into smaller units. Finally, ensure that each step is documented both in prose and in code blocks. Create a data dictionary to describe the variables in the dataset.
+
+<!-- This looks good. -->
 
 # Introduction
 
