@@ -15,13 +15,24 @@ citation: true
 bibliography: ../bibliography.bib
 ---
 
+<!--
+Summary:
+
+You've definitely made some progress. The goals of your research are taking on more shape, but it is vital that you include references to the literature that you are using to build your research question. This will help you to build a more comprehensive literature review and to ensure that your research question is well-grounded in the existing literature. Without this grounding, it can be very easy to go off track and try to do too much, or worse, to miss important aspects you could have concentrated your efforts on.
+
+Overall, I'm excited to see your progress and I think you are on the right track. Keep up the good work!
+
+-->
+
+
+
 # Introduction
 
 Study Corpus linguistics of English grammar
 
 ## Literature review
 
-Most previous literature on the corpus study of English grammar is for educational purposes. Numerous contemporary theories of language comprehension emphasize the significance of distributional frequencies in determining the relative accessibility or processing ease linked to specific lexical items or sentence structures. Despite this emphasis, there is a scarcity of comprehensive analyses on structural frequencies, and minimal attention has been devoted to assessing the suitability of employing any specific corpus frequencies for modeling human language.The current research question is to discover the significant characteristics of English grammar.
+Most previous literature on the corpus study of English grammar is for educational purposes. Numerous contemporary theories of language comprehension emphasize the significance of distributional frequencies in determining the relative accessibility or processing ease linked to specific lexical items or sentence structures. Despite this emphasis, there is a scarcity of comprehensive analyses on structural frequencies, and minimal attention has been devoted to assessing the suitability of employing any specific corpus frequencies for modeling human language. The current research question is to discover the significant characteristics of English grammar.
 
 <!--
 
@@ -37,19 +48,19 @@ So for example, if you have a reference in your `.bib` file, you will want to ci
 1. Data Acquisition:\
 The study utilizes diverse English texts from reputable linguistic databases like the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA).
 
-Data Organization:
+2. Data Organization:\
 Texts are segmented into sentences and tokenized for linguistic unit extraction. The dataset is then formatted for structured computational analysis.
 
-Data Enrichment:
+3. Data Enrichment:\
 Linguistic annotations and metadata such as part-of-speech tags and syntactic parse trees are added to enhance the corpus, enabling nuanced insights.
 
-Feature Selection and Engineering:
+4. Feature Selection and Engineering:\
 Various linguistic features like word frequencies, collocational patterns, and syntactic constructions are chosen for analysis. Feature engineering may be used to derive novel linguistic attributes.
 
-Analysis Techniques:
+5. Analysis Techniques:\
 Quantitative and computational linguistics methods including frequency analysis, distributional analysis, and machine learning models are employed to identify patterns and trends in the data.
 
-Evaluation Process:
+6. Evaluation Process:\
 Exploratory data analysis, inter-annotator agreement measures, and cross-validation techniques ensure the validity and reliability of the findings across different linguistic contexts.
 
 
@@ -100,17 +111,19 @@ Validation: Validate curated datasets through exploratory data analysis and inte
 
 # Assessing your progress
 
+<!-- Note: You may consider add more markdown formatting to make this easier to read. -->
+
 What did you learn?
 
-corpus linguistics study is mush complex than I expected.
+corpus linguistics study is mush complex than I expected. <!-- it can be! ;) -->
 
 What was most/ least challenging?
 
-Finding the appropriate materials of the study and choosing the method of handle them.
+Finding the appropriate materials of the study and choosing the method of handle them. <!-- This is a common challenge in research. -->
 
 What resources did you consult?
-Google scholar and wiki and some random websites that explain corpus linguistic study.
+Google scholar and wiki and some random websites that explain corpus linguistic study. <!-- You still need to document and include references in describing your research process as well as in your references section. It's not clear what you've consulted to arrive at your research question and methods. The literature review should be more comprehensive not just for the prospectus but for your research process. You will save time in the long run by documenting your research process as you go. -->
 
 What more would you like to know about?
 
-how to deal with huge amount of text effectivel.
+how to deal with huge amount of text effectively. <!-- This is a great question! You will first want to know what 'huge amount' means. For most research, R is perfectly capable of handling large datasets. You should do some more research on the data sources that you expect to use in this research and gauge the size of the data you will have access to and in what format. -->
