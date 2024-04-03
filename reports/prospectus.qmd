@@ -7,19 +7,17 @@ author:
     email: lul21@wfu.edu
     affiliation: "WFU-Lin-380"
 abstract: |
-  Social media platforms, depending on their targeted users and fucntions, now have develop various genres for different types of posts, such as instagram posts, discussion posts on Quora, or short fictions fans posted to share and interact with each other in AO3. Some genres are similar to traditional writing genres, while some others do not. To maintain consistency in text analysis, online fictions, including fan fictions, will be employed to compare and contrast with traditional novels, fictions, and academic writing. This study aims to spot the differences in the expression/use of sentimental words and first/second/third-pronouns in various genres. Through making comparison and concluding on the analysis results, the correlation among genre, setimental levels of the text, uses of pronouns can be found. 
+  Social media platforms, depending on their targeted users and fucntions, now have develop various genres for different types of posts, such as instagram posts, discussion posts on Quora, or short fictions fans posted to share and interact with each other in AO3. Some genres are similar to traditional writing genres, while some others do not. To maintain consistency in text analysis, online fictions, including fan fictions, will be employed to compare and contrast with traditional novels, fictions, and academic writing. This study aims to conduct a sentiment analysis across platforms, to compare and contrast the dominant sentiment in different platforms, and potentiall to analyze the reason behind the phenomenon. 
+  
 keywords:
   - Sentimental Analysis
-  - Text Analysis
-  - Genre
-  - Pronoun
 citation: true
 bibliography: ../bibliography.bib
 ---
 
 # Introduction
 
-This study is about sentimental levels and pronouns of texts in relation to genre. Genres with dissimilar explicit or implicit requirements can result in different word choices, uses of pronouns, depending on the specific requisites on objectivity of the genre. Formal writing genres, like essays, often expect authors to write in scientific manners, employing less sentimental words, more objective words, and third-person pronouns, whereas fictions or personal letters have contradicting expectations for their authors. In this way, through text analysis and sentiment analysis and comparing and contrasting sentimental levels and pronounces used in different genres and results of analysis from each genre, the study can hypothetically predict of the genre of the text, based on sentimental and pronounces the text contained. 
+This study is about sentiment levels of expressions in relation to platforms, whether the posted expressions are mainly super positive, positive, negative, or super negative. Internet has become an indispensable part of people's life today, and different social media has different potential users. Twitter and Facebook often include a large spectrum of users, from seniors to teens, meanwhile, Instagram posts often are often targeted young audiences, etc. Yet, would different targeted users and potential audiences influence the sentiment level of the posts users post online? This is also what this project aims to find out.  
 
 ## Literature review
 
@@ -40,19 +38,29 @@ First, data will be pulled from social media and other types of textual corpora 
 
 **Phase 1: Harvest social media data and compile a corpus**
 
-In this stage, automated tools can be used to query records of social media data, extract this data, and compile it into a corpus @Andreotta2019. Ideally, [API](https://ao3-api.readthedocs.io/en/latest/) of [AO3](https://archiveofourown.org/) can be used to extract data from it, and the collected data will incorporate into a larger database like [COCA](https://www.english-corpora.org/) or [LDC](https://www.ldc.upenn.edu/), which contains writings in other genres. The collected data will first be categorized based on their genre, such as fiction, novel, or letter, etc. 
+In this stage, automated tools can be used to query records of social media data, extract this data, and compile it into a corpus @Andreotta2019. Ideally, data from Twitter and Instagram will be collected: [Twitter-API](https://developer.twitter.com/en/docs/twitter-api) and [Facebook/Instagram](https://developers.facebook.com/docs/instagram-api). Also ideally, similar amount of data from roughly the same time interval should be collected from each platform. 
 
 **Phase 2: Categorize and subset variables**
 
-All the sentimental words will be extracted from the text and classified into the basic categories, using the method of sentimental analysis. The average level of sentiments in each genre will be calculated. Each level of sentiments will be assigned a distinct value (*E.g. Super positive/negative-1, positive/negative-0.5, neutral-0*). 
+An idealized structure for the topic modeling dataset is seen in @tbl-topic-ideal: 
 
-Then, similar methods will be employed to find relation between the use of pronounce and genre. All the pronouns used in text will also be extracted from the text and classified them to be first, second, or third-pronoun. The percentage of each type of pronouns used in each text will be calculated, then the average percentage of each type of pronouns used in each genre can also be calculated. The preferences in the use of pronouns in each genre can then be indicated.
+| variable | name | type | description |
+|----------|------|-------------|--|
+| post_id | Post ID | integer | Unique identifier for each post |
+| post_year | Post Year | integer | Year of the Post |
+| type | Word type | character | Individual words from the `text` variable |
+| frequency | Frequency | integer | Frequency of the word type in the `text` variable |
 
+: Idealized structure for the topic modeling dataset {#tbl-topic-ideal tbl-colwidths="[15, 15, 15, 55]"}
+
+First, all the extracted data will be given a unique identifier and the date, the year, the post is published will also be recorded. Then, using the method of sentiment analysis, we tokenize all the text and filter all the variables that are necessary need for this project to reduce some complexity. With the `frequency`, content words with highest frequency may also be observed in this project. 
+
+Then, introducing the `bing` lexicon, all the sentiment words will be extracted from the text and classified into the basic categories, using the method of sentiment analysis. The average level of sentiments in each platform will be calculated. Each level of sentiments will be assigned a distinct value (*E.g. Super positive/negative-1, positive/negative-0.5, neutral-0*). Now introducing the `left_join()` function, it will be "attach" the `sentiment` column to the original dataset.
 
 **Phase 3: Analyze and visualize**
 
-First, using sum of all the values in each text to divide the total number of sentimental words will be the average strong level of sentimental words in the text, and using this value, the average strong level of sentimental words in each genre will then be found. Tables representing sentimental level of text in relation of genre can then be drawn.
-Similarly, tables that visualize relation between genre and preference in the use of pronouns, or pronoun preference and strong level of sentimental words in each genre will be displayed, which will either prove or falsify the hypothesis.  
+First, using sum of all the values in each text to divide the total number of sentimental words will be the average strong level of sentimental words in the text, and using this value, the average strong level of words in each platform and words with highest frequency will then be found. Tables representing sentimental level of text in relation of genre can then be drawn.
+Similarly, tables that visualize relation between platform and preference in the use of content words. The strong level of sentimental words in each platform will be displayed, which will either prove or falsify the hypothesis.  
 
 # Expected results
 
@@ -64,7 +72,7 @@ The intended audience for the study can be anyone who is interested in linguisti
 
 # Conclusion
 
-This study employs the method of text analysis and sentiments analysis to find the the connection between genre and the use of pronouns and sentimental words in the text, which could be useful for in the field of linguistics, for the reason that it reflect which types of words writers may employ, or which types of words, uses of pronouns and sentimental words can engender objectivity or subjectivity for the audience of the text.
+///
 
 # Appendix {.appendix}
 
