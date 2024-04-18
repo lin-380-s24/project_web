@@ -13,6 +13,10 @@ keywords:
   - sample
 citation: true
 bibliography: ../bibliography.bib
+format:
+  html: default
+  pdf:
+    number-sections: true
 ---
 
 # Introduction
@@ -21,7 +25,9 @@ This section introduces the topic of the prospectus, its relevance, and specific
 
 ## Literature review
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study [@R-dplyr].
+
+The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
 
 # Methods
 

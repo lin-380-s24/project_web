@@ -32,6 +32,8 @@ website:
       - icon: github
         href: https:://github.com
 
+bibliography: bibliography.bib # Bibliography file
+
 format:
   html:
     theme: cosmo # Bootstrap theme for the site
