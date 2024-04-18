@@ -2,10 +2,10 @@
 title: "Presentations"
 listing:
   id: presentation-listing
-  contents: slides/*.qmd
+  contents: slides
   type: default
   sort: "date desc"
-  fields: [title, date, ]
+  fields: [title, date]
 page-layout: full
 title-block-banner: false
 ---

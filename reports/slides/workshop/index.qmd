@@ -1,0 +1,29 @@
+---
+title: "Example presentation"
+subtitle: "An example of using {revealjs} with Quarto"
+author:
+  - name: "Jerid Francom"
+    email: "francojc@wfu.edu"
+    affiliation: "Wake Forest University"
+date: "2024-04-18"
+date-format: medium
+format:
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    hash-type: number
+    footer: "Wake Forest University"
+---
+
+## Overview
+
+- This is a slide deck
+- It is written in Quarto
+- It is rendered using Reveal.js
+
+::: {.aside}
+You can add reference entries found in the `bibliography.bib` file and then cite them in your slides. For example, here is a citation to a book [@R-dplyr].
+:::
+
+## References
+

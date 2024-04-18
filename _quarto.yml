@@ -1,7 +1,14 @@
 project:
   title: "Web project" # Project title
   type: website
-  output-dir: _site/ # Website directory
+  execute-dir: project
+  render:
+    - index.qmd
+    - process/1_acquire.qmd
+    - process/2_curate.qmd
+    - process/3_transform.qmd
+    - process/4_analyze.qmd
+    - reports/
 
 website:
   page-navigation: true # Enable page navigation
@@ -23,6 +30,8 @@ website:
     tools:
       - icon: github
         href: https:://github.com
+
+bibliography: bibliography.bib # Bibliography file
 
 format:
   html:

@@ -13,6 +13,10 @@ keywords:
   - sample
 citation: true
 bibliography: ../bibliography.bib
+format:
+  html: default
+  pdf:
+    number-sections: true
 ---
 
 # Introduction
@@ -21,7 +25,9 @@ This section introduces the topic of the prospectus, its relevance, and specific
 
 ## Literature review
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study [@R-dplyr].
+
+The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
 
 # Methods
 
@@ -47,10 +53,8 @@ This section describes the plan for reporting, presenting, and sharing the resul
 
 This section provides a summary of the research proposal and its potential impact on the field of Linguistics and language science. It should include a clear statement of the significance of the research question and the potential contributions of the study.
 
-# References
-
-This section includes a list of sources cited in the prospectus. It should be formatted according to the citation style used in the field of Linguistics and language science.
-
 # Appendix {.appendix}
 
 This section includes any additional information that is relevant to the prospectus, such as data sources, code, or other supplementary materials.
+
+# References
