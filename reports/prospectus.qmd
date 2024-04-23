@@ -1,5 +1,5 @@
 ---
-title: "Project Step 2: Research statement"
+title: "Project Step 3: Data preparation"
 date-modified: today
 date-format: medium
 author:
@@ -11,7 +11,7 @@ abstract: |
 keywords:
   - prospectus
   - sample
-citation: true
+citation: false
 bibliography: ../bibliography.bib
 formart: html
 ---
@@ -44,7 +44,15 @@ This section describes the data preparation and analysis methods that will be us
 
 ## Data preparation
 
-This section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.
+The data needed for this research would be the examples for both the language preference itself and the translation error that is related to such language preference. The first sets of data will be used to support the argue that Chinese people have this language preference of guessing the meaning of texts in its literal form, and the second sets of data will be examples of translation errors that occurred based on it.
+
+1. There are plenty of examples of taking the text too literally in Chinese language itself. I need only to translate them into English for the reference of research audience.
+
+2. I have chosen 3 examples as the second sets of data. Two of them are cases of translation errors that were once reported on news, and one of them is based on the comparsion between Chinese and Japanese characters. The examples would be analysied, including the background research that would support arguments concluded.
+
+3. For first sets of data, and the third example provided in the second sets of data, there could be charts made to make an easier comparison between the correct meaning of words with the incorrect ones made due to literal reading.
+
+4. For the first two examples used in the second sets of data, analyzing and discussion would be sufficient.
 
 ## Data analysis
 
@@ -73,3 +81,7 @@ This section includes any additional information that is relevant to the prospec
 ## Assessement 2
 
 In this part of the research I find multiple articles from the past few decades, some directly provide research data for the research, and some provide examples that worth further research. What's most challenging for me right now are the Chinese scholar articles. They form an important part of my research, while they are being hard to be found online. Lots of the articles are not open to public, or do not have a full electronic version I could use. I would have to collect sometimes parts of existed documents on Chinese internet.
+
+## Assessment 3
+
+In this part of the research I have reviewed the data I collected. I divided them into two type, the ones that could be presented in charts to give a better picture of comparison, and the ones that are better analyzed and discussed. I review and re-considered if the data I collected do support my research purpose, and which different part would they be fit in. One of the examples was related to my previous interest during undergraduate study, and I might be even able to combine my previous study with my current research in the following progress.
