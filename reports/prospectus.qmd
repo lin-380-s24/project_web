@@ -63,22 +63,61 @@ Quantitative and computational linguistics methods including frequency analysis,
 6. Evaluation Process:\
 Exploratory data analysis, inter-annotator agreement measures, and cross-validation techniques ensure the validity and reliability of the findings across different linguistic contexts.
 
+<!--
+
+This is a general outline of your methods. It is a good start, but you will want to include more detail about the specific methods you will use to analyze the data. You will need to include more detail about the data source in terms of what the data source is (data origin informatiion), the original data format and structure, and how you will transform the data for analysis.
+
+In terms of the analysis, you will want to follow our class approach of determining the research aim (explore, predict, or infer) and specifiying the methods you will use to answer the research question according to the research question and the dataset variables.
+
+-->
+
 
 ## Data preparation
 
 The data for this study originates from diverse English texts sourced from reputable linguistic databases such as the British National Corpus (BNC) and the Corpus of Contemporary American English (COCA). Collection involves systematic retrieval based on predefined criteria followed by thorough cleaning to eliminate noise and inconsistencies. Additionally, the dataset is enriched through linguistic annotations including part-of-speech tags and syntactic structures. Normalization techniques ensure consistency, while sampling and partitioning may be employed for manageability. This rigorous process aims to establish a high-quality dataset, facilitating the subsequent analysis of English grammar characteristics with reliability and depth.
 
+<!--
+
+General question here: I'm still not clear what the research question is. And for that reason, I'm not sure what you are trying to do with the data, nor why both the BNC and COCA are both necessary. From our discussion yesterday (4/23/24), I understood that you were interested in the using the COCA for analyzing adjective use in some fashion. But what you plan to do and the reasoning why you plan to do is not clear.
+
+
+More specifically to the data preparation, what is it about syntactic structures that you are interested in? Again, from our discussion yesterday, I did not get the sense that syntactic structure would be a component of your analysis. --I could be wrong, but this is why you need to develop a stronger introduction (with references) to the literature that you are using to build your research question and a more concreate research question. Make sure to address an issue that you can communicate to others the significance of your planned research. Without this, it is difficult to understand what you are trying to do and why you are trying to do it.
+
+-->
+
 ## Data analysis
 
 In analyzing English grammar characteristics, the study employs a careful selection of linguistic features, including word frequencies, collocational patterns, and syntactic structures, further refined through feature engineering techniques. Quantitative and computational linguistics methods such as frequency and distributional analysis, alongside machine learning models and natural language processing algorithms, unveil nuanced patterns within the corpus. Rigorous evaluation, encompassing exploratory data analysis, measures of inter-annotator agreement, and cross-validation techniques, ensures the credibility and reliability of the findings across diverse linguistic contexts and datasets, establishing a robust foundation for deriving meaningful insights.
+
+<!--
+
+There's a long list of things you plan to do here, but it is not clear how you plan to do them nor why they matter for what you are trying to do.
+
+-->
+
 
 # Expected results
 
 The analysis is expected to reveal prominent structural patterns in English grammar, including collocational patterns and syntactic constructions. These findings may elucidate language comprehension mechanisms and processing ease. Moreover, insights from corpus-based frequencies could refine linguistic theories, inform pedagogy, and advance computational language modeling, impacting Linguistics and language science.
 
+
+<!--
+
+Again, you are shooting ideas from lots of areas and without a clear research question, it is difficult to understand what you are trying to do and why you are trying to do it.
+
+
+-->
+
 # Communication plan
 
 The study's findings will be disseminated through multiple channels to maximize impact. The primary audience includes researchers and scholars in linguistics, corpus linguistics, and language processing. The results will be presented in academic conferences and peer-reviewed journals, ensuring visibility within the scholarly community. Additionally, efforts will be made to share key insights through online platforms, including research blogs and social media, to engage a broader audience interested in language science and computational linguistics. This comprehensive communication plan aims to facilitate knowledge exchange and foster collaboration across disciplinary boundaries.
+
+
+<!--
+
+OK.
+
+-->
 
 # Conclusion
 
