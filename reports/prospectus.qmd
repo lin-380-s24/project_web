@@ -22,6 +22,15 @@ bibliography: ../bibliography.bib
 ---
 
 <!--
+2024-04-24
+
+I'm not sure if you have seen the feedback I provided on your previous prospectus. This document seems unchanged. Please update it and notify me when you have done so.
+
+-->
+
+
+
+<!--
 
 This document is a template for a research prospectus, so it is just fine that you use this space as you see fit. Just remember, that the final document should take the form proposed in the original template.
 
@@ -42,11 +51,32 @@ Note that you will want to discuss each of your references in more detail in the
 
 Adopting a multidisciplinaryz perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.
 
+<!--
+
+2024-04-24
+
+I would encourage you not to consider a "spectrum of language pairs" nor "contextual settings" at this point. This is very ambitious and will likely lead to a very broad research question and a very difficult research project to implement.
+
+Instead, focus on a specific language pair and a specific context. This will help you to develop a more focused research question and to identify the data sources that you will need to address it.
+
+-->
+
+
 Furthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.
 
 # Introduction
 
 # Literature review
+
+<!--
+
+2024-04-24
+
+You still need to provide a more detailed review of the literature that you have consulted. This will help you to identify the gaps in the literature and to develop a clear research question that your study will address.
+
+-->
+
+
 
 <!--
 
