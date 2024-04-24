@@ -20,19 +20,49 @@ formart: html
 
 My research is focused on the translation errors in term of faithfulness that is actually caused by literalness, appeared in English to Chinese translation made by Chinese translators.
 
+<!--
+
+I understand from this that the research is focused translation errors. The notion is that the errors are caused by literalness from English to Chinese. Is this research grounded in a particular theory or framework? If so, it would be helpful to provide some context on that. Also, it would be helpful to provide some background on the significance of this research. Why is it important to study translation errors in English to Chinese translation? What are the potential implications of this research?
+
+All of this should be connected to the relevant literature. What have other researchers said about this topic? What are the gaps in the literature that this research aims to address? This will lead to a more focused research question or hypothesis.
+
+-->
+
 ## Research hypothesis
 
 My hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.
 
+<!--
+
+This is a research question, more than a hypothesis. A hypothesis is a statement that can be tested. You will need to be more precise about what you mean by "Chinese translators" --are these new translators, translators with a certain level of experience, or all translators? You will also need to be more specific about what you mean by "reading too literally." You should have an idea of how to operationalize this concept so that when you analyze data you can identify instances of this behavior --ideally programmatically.
+
+-->
+
 ## Research objectives
 
 My objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.
+
+<!--
+
+Examples? Do you mean research articles? Or are you referring to anecdotal examples of translation errors? If anecdotal, this does not seem like it leads to a quantitative text analysis project.
+
+Note that at this point, the research objectives point to the whether you will be using exploration, prediction, or inference and how the potential findings will be useful to contribute the the larger research question and area that you identify.
+
+-->
+
 
 ## Impact expection
 
 I believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.
 
 (Assessement in the end)
+
+<!--
+
+So at least in part, the research is focused on providing a series of suggested practices to avoid translation errors of this type, right?
+
+-->
+
 
 ## Literature review
 
