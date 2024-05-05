@@ -56,7 +56,7 @@ The data needed for this research would be the examples for both the language pr
 
 ## Data analysis
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+I believe I will use exploratory methods for my research project. The project I am working focus on distinguishing the "salmon" products based on elements in their information. With nothing to predict, exploring would be more fitting for the research. The key variables would include product name, place of production, brand of the product, and price if possible. The analyzing of price on fish varies depending on season and other factors, so it might be removed in the final statement. The most reasonable research method would be visualizing the data collected, make a comparison between the frequency of variables shown in the information with the actual fish type of the product. This would directly lead to the conclusion of whether this new method for distinguishing would work or not.
 
 # Expected results
 
@@ -85,3 +85,7 @@ In this part of the research I find multiple articles from the past few decades,
 ## Assessment 3
 
 In this part of the research I have reviewed the data I collected. I divided them into two type, the ones that could be presented in charts to give a better picture of comparison, and the ones that are better analyzed and discussed. I review and re-considered if the data I collected do support my research purpose, and which different part would they be fit in. One of the examples was related to my previous interest during undergraduate study, and I might be even able to combine my previous study with my current research in the following progress.
+
+## Assessment 4
+
+In this part of the research I decided the analysis type I will be use and the specific method that would be applied. I find it most challenging that the examples used in the text book are quite different from the data I am working on, giving me a harder time to think about how the different variables and functions would work, and how would my chart be like after applied. On the other hand I also had my research aim improved, when thinking how the newly learned methods would work.
