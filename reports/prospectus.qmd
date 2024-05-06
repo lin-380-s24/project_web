@@ -13,12 +13,12 @@ keywords:
   - sample
 citation: false
 bibliography: ../bibliography.bib
-formart: html
+format: html
 ---
 
 # Introduction
 
-I am planning to build a framework that could help Chinese customers to distinguish real salmon fish from the fake trouts on Chinese market. This is a problem based on translation error that Chinese manufactures and dealers could legally lable their trouts as salmons, while eating raw trout has risk in parasite infection, and the price of fake salmon is way higher than regular trouts. This research aims at collect and analysis the products for sell, and find a pattern from their product names to see how they could be easily distinguished, and using the result to build a framework that could help customers in the future. 
+I am planning to build a framework that could help Chinese customers to distinguish real salmon fish from the fake trouts on Chinese market. This is a problem based on translation error that Chinese manufactures and dealers could legally lable their trouts as salmons, while eating raw trout has risk in parasite infection, and the price of fake salmon is way higher than regular trouts. This research aims at collect and analysis the products for sell, and find a pattern from their product names to see how they could be easily distinguished, and using the result to build a framework that could help customers in the future.
 
 <!--
 
@@ -79,7 +79,7 @@ I believe I will use exploratory methods for my research project. The project I 
 
 # Expected results
 
-I expect the result to be same with my hypothesis. Products that had "salmon (trout)" marked are not real salmon, and so does the ones that name as salmon without "Atlantic" added. Salmon that is produced in foreign countries such as Norway or Finland are real salmon, while the ones produced in China are trouts, while there should be a percentage of the trouts are produced in Norway as well. Brands with better reputation such as Supreme Salmon Mei Wei would be selling real salmon, while some unknown brands are selling trouts. The pricing however may not reflect the relationship between it and fish type correctly, considering the various aspects that will influence market price. 
+I expect the result to be same with my hypothesis. Products that had "salmon (trout)" marked are not real salmon, and so does the ones that name as salmon without "Atlantic" added. Salmon that is produced in foreign countries such as Norway or Finland are real salmon, while the ones produced in China are trouts, while there should be a percentage of the trouts are produced in Norway as well. Brands with better reputation such as Supreme Salmon Mei Wei would be selling real salmon, while some unknown brands are selling trouts. The pricing however may not reflect the relationship between it and fish type correctly, considering the various aspects that will influence market price.
 
 # Communication plan
 
