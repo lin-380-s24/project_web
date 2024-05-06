@@ -18,7 +18,7 @@ formart: html
 
 # Introduction
 
-My research is focused on the translation errors in term of faithfulness that is actually caused by literalness, appeared in English to Chinese translation made by Chinese translators.
+I am planning to build a framework that could help Chinese customers to distinguish real salmon fish from the fake trouts on Chinese market. This is a problem based on translation error that Chinese manufactures and dealers could legally lable their trouts as salmons, while eating raw trout has risk in parasite infection, and the price of fake salmon is way higher than regular trouts. This research aims at collect and analysis the products for sell, and find a pattern from their product names to see how they could be easily distinguished, and using the result to build a framework that could help customers in the future. 
 
 <!--
 
@@ -30,7 +30,7 @@ All of this should be connected to the relevant literature. What have other rese
 
 ## Research hypothesis
 
-My hypothesis on this issue is that the Chinese translators are affected by their original language preference in reading too literally. Their understanding on the source text in English is being misguided by such reading behavior and therefore resulted in mistakes in their translations works.
+My hypothesis on this issue is that by determining elements from the product names, such as fish type, place of production, brand name, and even price, we will be able to tell if the fish is salmon or not, and this method should work in a high possibility. The ones that claims to be Pacific salmon would more likely to be real salmon, and so do the ones from Norway. Brands that have higher reputation would be more credible, and products that has a price which does not fit the fish type would likely to be selling fake salmon.
 
 <!--
 
@@ -40,7 +40,7 @@ This is a research question, more than a hypothesis. A hypothesis is a statement
 
 ## Research objectives
 
-My objectives so far are looking into the three examples I found that were related to the topic. I will search into the history and origin of the language used in the examples, and find their connection between Chinese language preference and final result in their translations.
+My objectives is to test if my hypothesis are correct, and conclude my finding into a framework that could be used for inspecting salmons sold in market. I want to find out if the elements I predicted can be used for distinguishing if a fish product is true or not. I wish I could come up with a list of keywords that customers can use to match with product information and distinguish the impostors among them.
 
 <!--
 
@@ -53,9 +53,7 @@ Note that at this point, the research objectives point to the whether you will b
 
 ## Impact expection
 
-I believe my research would help in the field of English to Chinese translation. Such problem in translation could be paid more attention to by translators and avodied, decrease the number of same problems in the future and bring up the overall translation quality.
-
-(Assessement in the end)
+I believe my research would help Chinese customers who wish to purchase salmon fish, especially for the ones who wish to make Japanese raw fish food. With the old trick of confusing customers go ineffective, maybe it would even push the regulation on dividing the two fish in terms of legislation.
 
 <!--
 
@@ -66,47 +64,46 @@ So at least in part, the research is focused on providing a series of suggested 
 
 ## Literature review
 
-This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address.
+I reviewed previous research articles both in China and USA. It turns out the translation error of salmon started from the confusion between chum salmon in America and Atlantic salmon from the sea. Chinese back in the late 1900s mistook chum salmon that is closer to trout with sea salmon that is more different. Chinese research also showed that China's geological environment is not suitable for fish farm salmon. They explained why Chinese would mistook trout at salmon in the very beginning, and why the manufactures who claim to be fish farming sea salmon are all lying about their products.
+
 
 # Methods
 
-This section describes the data preparation and analysis methods that will be used to address the research question or hypothesis. It should include a detailed description of the data acquisition, data organization, and data enrichment process, as well as the feature selection and engineering, analysis techniques, and evaluation process.
-
 ## Data preparation
 
-The data needed for this research would be the examples for both the language preference itself and the translation error that is related to such language preference. The first sets of data will be used to support the argue that Chinese people have this language preference of guessing the meaning of texts in its literal form, and the second sets of data will be examples of translation errors that occurred based on it.
-
-1. There are plenty of examples of taking the text too literally in Chinese language itself. I need only to translate them into English for the reference of research audience.
-
-2. I have chosen 3 examples as the second sets of data. Two of them are cases of translation errors that were once reported on news, and one of them is based on the comparsion between Chinese and Japanese characters. The examples would be analysied, including the background research that would support arguments concluded.
-
-3. For first sets of data, and the third example provided in the second sets of data, there could be charts made to make an easier comparison between the correct meaning of words with the incorrect ones made due to literal reading.
-
-4. For the first two examples used in the second sets of data, analyzing and discussion would be sufficient.
+I will collect a random 100 products that showed up first by searching on Taobao, the Chinese version of Amazon. I will first distinguish whether these products are salmon or trout, then collected all the product information I need, including product name of the fish, place of production, brand name, and the pirce of the fish. The data set will be saved for analysis.
 
 ## Data analysis
 
-This section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.
+I believe I will use exploratory methods for my research project. The project I am working focus on distinguishing the "salmon" products based on elements in their information. With nothing to predict, exploring would be more fitting for the research. The key variables would include product name, place of production, brand of the product, and price if possible. The analyzing of price on fish varies depending on season and other factors, so it might be removed in the final statement. The most reasonable research method would be visualizing the data collected, make a comparison between the frequency of variables shown in the information with the actual fish type of the product. This would directly lead to the conclusion of whether this new method for distinguishing would work or not.
 
 # Expected results
 
-This section presents the hypothesized findings based on the research question and analysis methods. It should include a clear statement of the expected results and their potential implications for the field of Linguistics and language science.
+I expect the result to be same with my hypothesis. Products that had "salmon (trout)" marked are not real salmon, and so does the ones that name as salmon without "Atlantic" added. Salmon that is produced in foreign countries such as Norway or Finland are real salmon, while the ones produced in China are trouts, while there should be a percentage of the trouts are produced in Norway as well. Brands with better reputation such as Supreme Salmon Mei Wei would be selling real salmon, while some unknown brands are selling trouts. The pricing however may not reflect the relationship between it and fish type correctly, considering the various aspects that will influence market price. 
 
 # Communication plan
 
-This section describes the plan for reporting, presenting, and sharing the results of the study. It should include a detailed description of the intended audience for the study, the format of the final report, and any plans for sharing the results with the broader community.
+A power point or poster would be most helpful for presenting the research result. Since the target audience will mostly be customers that are not specifically educated in both area of translation and marine biology, a more visualized final report will be more helpful. Try avoid using over professional terms when explaining the research background, but use the proper nouns for concepts and objects to make the presentation more convincing to the public.
 
 # Conclusion
 
-This section provides a summary of the research proposal and its potential impact on the field of Linguistics and language science. It should include a clear statement of the significance of the research question and the potential contributions of the study.
+I wish my research result will be having the hypothesis proved so the listed elements could be made into a framework that customers can use as reference when purchasing salmon fish. I believe this outcome would help protect consumer rights and interests, prevent customers from parasite risk and save their money for the real products they are looking for. If enough peers of linguistic also reads the result, this long term translation error of salmon may eventually be fixed, and set an example for future translation in confusing terms or translations that is being influenced by so called conventional result that could be a mistake.
 
-# References
 
-This section includes a list of sources cited in the prospectus. It should be formatted according to the citation style used in the field of Linguistics and language science.
+## References
 
-# Appendix {.appendix}
+李思忠，《中国鲑科鱼类地理分布的探讨》，《动物学杂志》，19（1）
+(Sizhong Li, A Study On the Geographical Distribution of Salmonids in China, Journal of zoology, 19(1). 1984)
 
-This section includes any additional information that is relevant to the prospectus, such as data sources, code, or other supplementary materials.
+Wang, J., Gao, Y., Liu, W., Zhang, H., & Dettman, D. L. (2021). The life history and populations of chum salmon (Oncorhynchus keta) in China: An otolith isotopic investigation. Applied Geochemistry, 127, 104903. https://doi.org/10.1016/j.apgeochem.2021.104903
+
+包春莹, 赵亚辉，《鲑鱼, 鳟鱼, 三文鱼, 大麻哈鱼之间是什么关系, 如何区分?》《Newton科学世界》，2014年第1期
+(Chunying Bao, Yahui Zhao, “What are the difference among Salmon, Trout, Sanwen Fish, and Chum Salmon, and how to tell it?” Newton Science World, vol.1, 2014)
+
+Revenga, Jorge E. “Diphyllobothrium dendriticum and Diphyllobothrium Latum in fishes from southern Argentina: Association, abundance, distribution, pathological effects, and risk of human infection.” The Journal of Parasitology, vol. 79, no. 3, 1993, p. 379, https://doi.org/10.2307/3283573.
+
+Qinglong Ding, Xiaozong Zen, Lu Zhou, Juan Li, “Investigation of salmon adulteration.” Journal of Food Safety & Quality. Jul2019, Vol. 10 Issue 13, p4080-4085. 6p.
+
 
 ## Assessement 2
 
@@ -115,3 +112,11 @@ In this part of the research I find multiple articles from the past few decades,
 ## Assessment 3
 
 In this part of the research I have reviewed the data I collected. I divided them into two type, the ones that could be presented in charts to give a better picture of comparison, and the ones that are better analyzed and discussed. I review and re-considered if the data I collected do support my research purpose, and which different part would they be fit in. One of the examples was related to my previous interest during undergraduate study, and I might be even able to combine my previous study with my current research in the following progress.
+
+## Assessment 4
+
+In this part of the research I decided the analysis type I will be use and the specific method that would be applied. I find it most challenging that the examples used in the text book are quite different from the data I am working on, giving me a harder time to think about how the different variables and functions would work, and how would my chart be like after applied. On the other hand I also had my research aim improved, when thinking how the newly learned methods would work.
+
+## Assessment 5
+
+In the last part of the research I reviewed the analysis types and how I could present my research results to audience. I also reworked my previous steps such as the research objectives and data preparation based on previous studies and comments given by classmates and professor. If to make the research happen I would need to refine the data analysis part some more, but I believe that the general structure I have built should be a basic enough for starting a real research project.
